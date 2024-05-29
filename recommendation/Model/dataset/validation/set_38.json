@@ -1,0 +1,336 @@
+[
+    {
+        "name": "Power of Three",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/power-of-three/"
+    },
+    {
+        "name": "Minimum Time Visiting All Points",
+        "tags": [
+            "geometry",
+            "math",
+            "distance calculation",
+            "point traversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+    },
+    {
+        "name": "Minimum Operations to Make the Array Increasing",
+        "tags": [
+            "array",
+            "greedy",
+            "operation counting",
+            "sequence manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "array",
+            "dp",
+            "max profit calculation",
+            "stock trading"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "name": "Maximum Number of Balls in a Box",
+        "tags": [
+            "math",
+            "hash table",
+            "counting",
+            "ball distribution"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/"
+    },
+    {
+        "name": "Palindrome Number",
+        "tags": [
+            "math",
+            "string manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "name": "Sum of Square Numbers",
+        "tags": [
+            "math",
+            "two pointers",
+            "number theory",
+            "sum of squares"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-square-numbers/"
+    },
+    {
+        "name": "Array Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/array-queries"
+    },
+    {
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp",
+            "subarray sum",
+            "greedy"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "name": "Valid Boomerang",
+        "tags": [
+            "math",
+            "geometry",
+            "triangle area",
+            "line equation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-boomerang/"
+    },
+    {
+        "name": "Minimum Time Visiting All Points",
+        "tags": [
+            "geometry",
+            "math",
+            "distance calculation",
+            "point traversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+    },
+    {
+        "name": "A Wedding Party",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/a-wedding-party"
+    },
+    {
+        "name": "Lighthouses",
+        "tags": [
+            "constructive",
+            "adhoc",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/LIGHTHSE"
+    },
+    {
+        "name": "Real Life Traffic",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/real-life-traffic"
+    },
+    {
+        "name": "Bad Shuffle",
+        "tags": [
+            "data structure",
+            "constructive",
+            "adhoc",
+            "algorithm",
+            "probability"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BSHUFFLE"
+    },
+    {
+        "name": "Strongest Community",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/strongest-community"
+    },
+    {
+        "name": "Word Break II",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "word break"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/word-break-ii/"
+    },
+    {
+        "name": "Chef and Cake",
+        "tags": [
+            "data structure",
+            "greedy"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHEFCK"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regex"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Tennis Tournament",
+        "tags": [
+            "probability",
+            "dp",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/TOURNAM"
+    },
+    {
+        "name": "Minimum Operation",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MINIMUMOP"
+    },
+    {
+        "name": "Two Fairs",
+        "tags": [
+            "dfs and similar",
+            "graph",
+            "shortest paths"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/1144/D"
+    },
+    {
+        "name": "Looking For A Subsequence",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/looking-for-a-subsequence"
+    },
+    {
+        "name": "Tidying Posters",
+        "tags": [
+            "graph",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/POSTERS"
+    },
+    {
+        "name": "Placing Lampposts",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/placing-lampposts"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    }
+]

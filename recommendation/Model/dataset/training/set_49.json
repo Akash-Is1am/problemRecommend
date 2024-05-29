@@ -1,0 +1,767 @@
+[
+    {
+        "name": "Reverse String",
+        "tags": [
+            "string",
+            "string manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-string/"
+    },
+    {
+        "name": "Maximum Product of Two Elements in an Array",
+        "tags": [
+            "array",
+            "sorting",
+            "max product",
+            "greedy"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/"
+    },
+    {
+        "name": "Reverse Integer",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "name": "Design HashMap",
+        "tags": [
+            "hash table",
+            "data structure",
+            "map implementation",
+            "hashing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-hashmap/"
+    },
+    {
+        "name": "First Unique Character in a String",
+        "tags": [
+            "string",
+            "hash table",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string/"
+    },
+    {
+        "name": "Merge Sorted Array",
+        "tags": [
+            "array",
+            "two pointers",
+            "merge operation",
+            "in-place manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+        "name": "Word Capitalization",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/281/A"
+    },
+    {
+        "name": "Count and Say",
+        "tags": [
+            "string",
+            "pattern recognition",
+            "sequence generation",
+            "recursion"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+        "name": "Sum of Square Numbers",
+        "tags": [
+            "math",
+            "two pointers",
+            "number theory",
+            "sum of squares"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-square-numbers/"
+    },
+    {
+        "name": "Word Capitalization",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/281/A"
+    },
+    {
+        "name": "Check If a String Contains All Binary Codes of Size K",
+        "tags": [
+            "string",
+            "binary codes",
+            "substring search",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/"
+    },
+    {
+        "name": "Valid Mountain Array",
+        "tags": [
+            "array",
+            "mountain detection",
+            "peak finding",
+            "climbing rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-mountain-array/"
+    },
+    {
+        "name": "First Bad Version",
+        "tags": [
+            "binary search",
+            "version control",
+            "bug detection",
+            "searching"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/first-bad-version/"
+    },
+    {
+        "name": "Two Sum",
+        "tags": [
+            "arrays",
+            "hash table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "name": "Count and Say",
+        "tags": [
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+        "name": "Fizz Buzz",
+        "tags": [
+            "math",
+            "conditional statements",
+            "looping",
+            "interview prep"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/fizz-buzz/"
+    },
+    {
+        "name": "Valid Sudoku",
+        "tags": [
+            "array",
+            "hash table",
+            "matrix manipulation",
+            "sudoku rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "name": "Valid Sudoku",
+        "tags": [
+            "array",
+            "hash table",
+            "matrix manipulation",
+            "sudoku rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "name": "Shuffle the Array",
+        "tags": [
+            "array",
+            "shuffling",
+            "element rearrangement",
+            "randomization"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/shuffle-the-array/"
+    },
+    {
+        "name": "The Hungry Bear",
+        "tags": [
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/HBEAR"
+    },
+    {
+        "name": "Aladdin and the Return Journey",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/aladdin-and-the-return-journe"
+    },
+    {
+        "name": "Delicious Dishes",
+        "tags": [
+            "dp",
+            "bit manipulation",
+            "bruteforce"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/DDISH"
+    },
+    {
+        "name": "Revenge of Traveling Salesman",
+        "tags": [
+            "graph",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc180/tasks/abc180_e"
+    },
+    {
+        "name": "Vowel Anxiety",
+        "tags": [
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/VOWANX"
+    },
+    {
+        "name": "Jump Game II",
+        "tags": [
+            "array",
+            "greedy",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game-ii/"
+    },
+    {
+        "name": "3Sum",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/3sum/"
+    },
+    {
+        "name": "Little Elephant and Alcohol",
+        "tags": [
+            "math",
+            "bitmask"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/LEALCO"
+    },
+    {
+        "name": "House Robber",
+        "tags": [
+            "array",
+            "dp",
+            "house robbery",
+            "maximum sum"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/house-robber/"
+    },
+    {
+        "name": "Horrible Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/horrible-queries"
+    },
+    {
+        "name": "Maximise the bridges",
+        "tags": [
+            "constructive",
+            "graph",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MAXBRIDGE"
+    },
+    {
+        "name": "Combination Sum",
+        "tags": [
+            "array",
+            "backtracking",
+            "recursion",
+            "combination"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/combination-sum/"
+    },
+    {
+        "name": "Jump Game",
+        "tags": [
+            "array",
+            "greedy",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+        "name": "Ilya and tic-tac-toe game",
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/754/B"
+    },
+    {
+        "name": "Subsets",
+        "tags": [
+            "array",
+            "backtracking",
+            "bit manipulation",
+            "subsets"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/subsets/"
+    },
+    {
+        "name": "Investigation",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/investigation"
+    },
+    {
+        "name": "Minimize Xor Difference",
+        "tags": [
+            "constructive",
+            "bit manipulation",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/XORDIF"
+    },
+    {
+        "name": "Kefa and Company",
+        "tags": [
+            "binary search",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/580/B"
+    },
+    {
+        "name": "Letter Combinations of a Phone Number",
+        "tags": [
+            "string",
+            "backtracking",
+            "recursion",
+            "combinations"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+        "name": "Search in Rotated Sorted Array",
+        "tags": [
+            "array",
+            "binary search",
+            "rotated array",
+            "searching"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+        "name": "Rectangle Union",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/rectangle-union"
+    },
+    {
+        "name": "Search in Rotated Sorted Array",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+        "name": "Throwing Dice",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/throwing-dice"
+    },
+    {
+        "name": "Majority Element II",
+        "tags": [
+            "array",
+            "voting algorithm",
+            "majority element",
+            "counting"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/majority-element-ii/"
+    },
+    {
+        "name": "Letter Combinations of a Phone Number",
+        "tags": [
+            "string",
+            "backtracking",
+            "recursion",
+            "combinations"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+        "name": "Chef and Destruction",
+        "tags": [
+            "greedy",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/DESTROY"
+    },
+    {
+        "name": "Palindrome Partitioning II",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "palindrome"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/palindrome-partitioning-ii/"
+    },
+    {
+        "name": "Trapping Rain Water",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "name": "Longest non regular parentheses sub-sequence",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/ANKPAREN"
+    },
+    {
+        "name": "From Zero to Infinity",
+        "tags": [
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/WEIRDO"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Stream My Contest",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/stream-my-contest"
+    },
+    {
+        "name": "Hard 20",
+        "tags": [
+            "array",
+            "backtracking",
+            "hard"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/hard-20/"
+    },
+    {
+        "name": "Magical Flips",
+        "tags": [
+            "bit manipulation",
+            "greedy",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CRDFLP"
+    },
+    {
+        "name": "Skiing",
+        "tags": [
+            "greedy",
+            "data structure",
+            "graph",
+            "sorting"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SKIING"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "N-Queens II",
+        "tags": [
+            "backtracking",
+            "recursion",
+            "queens"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/n-queens-ii/"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Merge Interval",
+        "tags": [
+            "array",
+            "sorting",
+            "interval",
+            "merge"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/merge-interval/"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "hash table",
+            "two pointers",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    }
+]

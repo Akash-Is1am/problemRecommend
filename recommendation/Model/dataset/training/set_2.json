@@ -1,0 +1,651 @@
+[
+    {
+        "name": "Find All Anagrams in a String",
+        "tags": [
+            "string",
+            "sliding window",
+            "hash table",
+            "anagram detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string/"
+    },
+    {
+        "name": "Rooks",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/rooks"
+    },
+    {
+        "name": "Count Primes",
+        "tags": [
+            "math",
+            "prime numbers",
+            "sieve of Eratosthenes",
+            "number theory"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-primes/"
+    },
+    {
+        "name": "Longest Common Prefix",
+        "tags": [
+            "string",
+            "prefix matching",
+            "character comparison",
+            "divide and conquer"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/longest-common-prefix/"
+    },
+    {
+        "name": "Design HashSet",
+        "tags": [
+            "hash table",
+            "data structure",
+            "set implementation",
+            "hashing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-hashset/"
+    },
+    {
+        "name": "Merge Sorted Array",
+        "tags": [
+            "array",
+            "two pointers",
+            "merge operation",
+            "in-place manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+        "name": "Two Sum",
+        "tags": [
+            "arrays",
+            "hash table"
+        ],
+        "platforms": [
+            "LeetCode",
+            "HackerRank"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "name": "Binary Simulation",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/binary-simulation"
+    },
+    {
+        "name": "Valid Anagram",
+        "tags": [
+            "string",
+            "hash table",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-anagram/"
+    },
+    {
+        "name": "Climbing Stairs",
+        "tags": [
+            "dp",
+            "recursion",
+            "memoization",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/climbing-stairs/"
+    },
+    {
+        "name": "Check If a String Contains All Binary Codes of Size K",
+        "tags": [
+            "string",
+            "binary codes",
+            "substring search",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/"
+    },
+    {
+        "name": "Number of Students Doing Homework at a Given Time",
+        "tags": [
+            "array",
+            "time intervals",
+            "range checking",
+            "element count"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "array",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "name": "Count and Say",
+        "tags": [
+            "string",
+            "pattern recognition",
+            "sequence generation",
+            "recursion"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+        "name": "Valid Parentheses",
+        "tags": [
+            "String",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock II",
+        "tags": [
+            "array",
+            "greedy",
+            "max profit calculation",
+            "stock trading"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    {
+        "name": "Intersection of Two Arrays",
+        "tags": [
+            "array",
+            "hash table",
+            "set intersection",
+            "element checking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays/"
+    },
+    {
+        "name": "Sort Colors",
+        "tags": [
+            "array",
+            "two pointers",
+            "sorting",
+            "Dutch national flag problem"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/sort-colors/"
+    },
+    {
+        "name": "Binary Nim 2",
+        "tags": [
+            "constructive",
+            "games",
+            "adhoc",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BINIM2"
+    },
+    {
+        "name": "Fetching Cooking Tools",
+        "tags": [
+            "dp",
+            "graph",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/TOOLS"
+    },
+    {
+        "name": "Sort Colors",
+        "tags": [
+            "array",
+            "two pointers",
+            "sorting",
+            "Dutch national flag problem"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/sort-colors/"
+    },
+    {
+        "name": "Points in Rectangle",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/points-in-rectangle"
+    },
+    {
+        "name": "Sending Packets",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/sending-packets"
+    },
+    {
+        "name": "Find the Duplicate Number",
+        "tags": [
+            "array",
+            "two pointers",
+            "binary search",
+            "duplicate"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/find-the-duplicate-number/"
+    },
+    {
+        "name": "Jump Game",
+        "tags": [
+            "array",
+            "greedy",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+        "name": "Parity Again",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/PRTAGN"
+    },
+    {
+        "name": "Equalization",
+        "tags": [
+            "constructive",
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/EQUALIZ"
+    },
+    {
+        "name": "Median of Two Sorted Arrays",
+        "tags": [
+            "array",
+            "binary search",
+            "divide and conquer",
+            "median"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "name": "Chef and Secret Password",
+        "tags": [
+            "adhoc",
+            "data structure",
+            "algorithm",
+            "String"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SECPASS"
+    },
+    {
+        "name": "Chef and Gcd Queries",
+        "tags": [
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/GCDCNT"
+    },
+    {
+        "name": "Cherry and Bits",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CENS20A"
+    },
+    {
+        "name": "Unreachable Nodes",
+        "tags": [
+            "graph",
+            "dfs"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Hard",
+        "link": "https://atcoder.jp/contests/abc142/tasks/abc142_e"
+    },
+    {
+        "name": "Trapping Rain Water",
+        "tags": [
+            "array",
+            "two pointers",
+            "stack",
+            "water trapping"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "name": "Sudoku Solver",
+        "tags": [
+            "array",
+            "backtracking",
+            "hash table",
+            "sudoku"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/sudoku-solver/"
+    },
+    {
+        "name": "Fly height mode",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/FLYMODE"
+    },
+    {
+        "name": "Trapping Rain Water",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "name": "New Reform",
+        "tags": [
+            "data structure",
+            "implementation",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/659/C"
+    },
+    {
+        "name": "Reachable Strings",
+        "tags": [
+            "dp",
+            "strings"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Hard",
+        "link": "https://atcoder.jp/contests/abc146/tasks/abc146_f"
+    },
+    {
+        "name": "First Missing Positive",
+        "tags": [
+            "array",
+            "hash table",
+            "positive numbers",
+            "missing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/first-missing-positive/"
+    },
+    {
+        "name": "Alien Dictionary",
+        "tags": [
+            "graph",
+            "topological sorting",
+            "dictionary",
+            "alien language"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/alien-dictionary/"
+    },
+    {
+        "name": "Count Substrings",
+        "tags": [
+            "dp",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/STRSUB"
+    },
+    {
+        "name": "Grouping Friends",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/grouping-friends"
+    },
+    {
+        "name": "Sudoku Solver",
+        "tags": [
+            "array",
+            "backtracking",
+            "hash table",
+            "sudoku"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/sudoku-solver/"
+    },
+    {
+        "name": "First Missing Positive",
+        "tags": [
+            "array",
+            "hash table",
+            "positive numbers",
+            "missing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/first-missing-positive/"
+    },
+    {
+        "name": "Document Analyzer",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/document-analyzer"
+    },
+    {
+        "name": "Trapping Rain Water",
+        "tags": [
+            "array",
+            "two pointers",
+            "stack",
+            "water trapping"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "name": "Stable market",
+        "tags": [
+            "searching",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SMARKET"
+    },
+    {
+        "name": "Aladdin and the Black Stones",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/aladdin-and-the-black-stones"
+    },
+    {
+        "name": "Village Postman",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/village-postman"
+    },
+    {
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "string",
+            "hash table",
+            "substring",
+            "concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    }
+]

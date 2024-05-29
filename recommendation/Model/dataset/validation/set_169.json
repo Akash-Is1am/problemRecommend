@@ -1,0 +1,346 @@
+[
+    {
+        "name": "Valid Perfect Square",
+        "tags": [
+            "math",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-perfect-square/"
+    },
+    {
+        "name": "Sqrt(x)",
+        "tags": [
+            "math",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sqrtx/"
+    },
+    {
+        "name": "Counting Roads",
+        "tags": [
+            "graph",
+            "dfs"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Easy",
+        "link": "https://atcoder.jp/contests/abc061/tasks/abc061_b"
+    },
+    {
+        "name": "Minimum Time Visiting All Points",
+        "tags": [
+            "geometry",
+            "math",
+            "distance calculation",
+            "point traversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+    },
+    {
+        "name": "Design HashSet",
+        "tags": [
+            "hash table",
+            "data structure",
+            "set implementation",
+            "hashing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-hashset/"
+    },
+    {
+        "name": "Design Parking System",
+        "tags": [
+            "design",
+            "object-oriented design",
+            "parking system",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-parking-system/"
+    },
+    {
+        "name": "Pascal's Triangle",
+        "tags": [
+            "array",
+            "math",
+            "pattern generation",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/pascals-triangle/"
+    },
+    {
+        "name": "Maximum Number of Balls in a Box",
+        "tags": [
+            "math",
+            "hash table",
+            "counting",
+            "ball distribution"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/"
+    },
+    {
+        "name": "Palindrome Number",
+        "tags": [
+            "math",
+            "string manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "name": "Valid Boomerang",
+        "tags": [
+            "math",
+            "geometry",
+            "triangle area",
+            "line equation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-boomerang/"
+    },
+    {
+        "name": "Maximum Number of Balls in a Box",
+        "tags": [
+            "math",
+            "hash table",
+            "counting",
+            "ball distribution"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/"
+    },
+    {
+        "name": "Design Parking System",
+        "tags": [
+            "design",
+            "object-oriented design",
+            "parking system",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-parking-system/"
+    },
+    {
+        "name": "Find the Center of the Star Graph",
+        "tags": [
+            "graph",
+            "node connectivity",
+            "center detection",
+            "degree calculation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-center-of-star-graph/"
+    },
+    {
+        "name": "Equality",
+        "tags": [
+            "data structure",
+            "adhoc",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/ISBIAS"
+    },
+    {
+        "name": "Jump Game VI",
+        "tags": [
+            "array",
+            "deque",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game-vi/"
+    },
+    {
+        "name": "Travel Company",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/travel-company"
+    },
+    {
+        "name": "Misere Nim",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/misere-nim"
+    },
+    {
+        "name": "Jump Game",
+        "tags": [
+            "array",
+            "greedy",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+        "name": "Fast Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/fast-queries"
+    },
+    {
+        "name": "Cut and Count",
+        "tags": [
+            "strings",
+            "dp"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc141/tasks/abc141_c"
+    },
+    {
+        "name": "Bad Shuffle",
+        "tags": [
+            "data structure",
+            "constructive",
+            "adhoc",
+            "algorithm",
+            "probability"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BSHUFFLE"
+    },
+    {
+        "name": "The Guessing Game",
+        "tags": [
+            "constructive",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/A3"
+    },
+    {
+        "name": "Chef and Pairwise Distances",
+        "tags": [
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/PAIRDIST"
+    },
+    {
+        "name": "Dual Nim",
+        "tags": [
+            "adhoc",
+            "math",
+            "games",
+            "constructive",
+            "bit manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/TWONIM"
+    },
+    {
+        "name": "Distinct Subsequences II",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences-ii/"
+    },
+    {
+        "name": "Chef and Numbers",
+        "tags": [
+            "dp",
+            "greedy",
+            "math",
+            "combinatorics"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHRL3"
+    }
+]

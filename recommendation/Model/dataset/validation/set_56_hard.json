@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Maximum Plus",
+        "tags": [
+            "data structure",
+            "dp",
+            "greedy"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/PLUS"
+    }
+]

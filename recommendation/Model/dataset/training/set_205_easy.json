@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Palindrome Number",
+        "tags": [
+            "math",
+            "numerical algorithms",
+            "string manipulation",
+            "edge cases"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Ilya and the Tree",
+        "tags": [
+            "dfs and similar",
+            "dp",
+            "trees"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/842/D"
+    }
+]

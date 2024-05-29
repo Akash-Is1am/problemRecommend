@@ -1,0 +1,580 @@
+[
+    {
+        "name": "Shuffle the Array",
+        "tags": [
+            "array",
+            "shuffling",
+            "element rearrangement",
+            "randomization"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/shuffle-the-array/"
+    },
+    {
+        "name": "Sort Array by Increasing Frequency",
+        "tags": [
+            "array",
+            "sorting",
+            "frequency counting",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sort-array-by-increasing-frequency/"
+    },
+    {
+        "name": "Valid Mountain Array",
+        "tags": [
+            "array",
+            "mountain detection",
+            "peak finding",
+            "climbing rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-mountain-array/"
+    },
+    {
+        "name": "Number of Students Doing Homework at a Given Time",
+        "tags": [
+            "array",
+            "time intervals",
+            "range checking",
+            "element count"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/"
+    },
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "array",
+            "hash table",
+            "sorting",
+            "intersection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "hash table",
+            "two pointers",
+            "binary search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "Count and Say",
+        "tags": [
+            "string",
+            "pattern recognition",
+            "sequence generation",
+            "recursion"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+        "name": "Palindrome Linked List",
+        "tags": [
+            "Linked List",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-linked-list/"
+    },
+    {
+        "name": "Binary Simulation",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/binary-simulation"
+    },
+    {
+        "name": "Two Sum",
+        "tags": [
+            "arrays",
+            "hash table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "name": "Merge Intervals",
+        "tags": [
+            "array",
+            "sorting",
+            "interval",
+            "merge"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/merge-intervals/"
+    },
+    {
+        "name": "Decode Ways",
+        "tags": [
+            "string",
+            "dp",
+            "decode",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/decode-ways/"
+    },
+    {
+        "name": "Palindrome Linked List",
+        "tags": [
+            "linked list",
+            "two pointers",
+            "palindrome"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/palindrome-linked-list/"
+    },
+    {
+        "name": "Queue",
+        "tags": [
+            "data structure",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/545/D"
+    },
+    {
+        "name": "Witua and Math",
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/WITMATH"
+    },
+    {
+        "name": "Next Permutation",
+        "tags": [
+            "array",
+            "permutations",
+            "rearrangement",
+            "lexicographic ordering"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/next-permutation/"
+    },
+    {
+        "name": "Search a 2D Matrix",
+        "tags": [
+            "array",
+            "binary search",
+            "matrix",
+            "searching"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/search-a-2d-matrix/"
+    },
+    {
+        "name": "Parity Again",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/PRTAGN"
+    },
+    {
+        "name": "Subsets",
+        "tags": [
+            "array",
+            "backtracking",
+            "bit manipulation",
+            "subsets"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/subsets/"
+    },
+    {
+        "name": "Best Cake Ever",
+        "tags": [
+            "constructive",
+            "bit manipulation",
+            "algorithm",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/KMXOR"
+    },
+    {
+        "name": "Container With Most Water",
+        "tags": [
+            "array",
+            "two pointers",
+            "greedy",
+            "water container"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+        "name": "Candidates of No Shortest Paths",
+        "tags": [
+            "graph",
+            "dfs",
+            "bfs"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc070/tasks/abc070_c"
+    },
+    {
+        "name": "Generating Palindromes",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/generating-palindromes"
+    },
+    {
+        "name": "Garden Game",
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/SGARDEN"
+    },
+    {
+        "name": "Magic sequence",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/F5"
+    },
+    {
+        "name": "The Vindictive Coach",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/the-vindictive-coach"
+    },
+    {
+        "name": "Consistency Checker",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/consistency-checker"
+    },
+    {
+        "name": "Minimum Size Subarray Sum",
+        "tags": [
+            "array",
+            "two pointers",
+            "sliding window",
+            "sum"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/minimum-size-subarray-sum/"
+    },
+    {
+        "name": "Longest Common Subsequence",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "longest common subsequence"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-common-subsequence/"
+    },
+    {
+        "name": "Spiral Matrix",
+        "tags": [
+            "array",
+            "matrix",
+            "spiral traversal",
+            "simulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/spiral-matrix/"
+    },
+    {
+        "name": "Magic Trick",
+        "tags": [
+            "math",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MTRICK"
+    },
+    {
+        "name": "A Secret Mission",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/a-secret-mission"
+    },
+    {
+        "name": "Search in Rotated Sorted Array",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+        "name": "Coin Change",
+        "tags": [
+            "array",
+            "dp",
+            "coin change",
+            "combinations"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/coin-change/"
+    },
+    {
+        "name": "Get The Containers",
+        "tags": [
+            "greedy"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/get-the-containers"
+    },
+    {
+        "name": "Find All Anagrams in a String",
+        "tags": [
+            "string",
+            "hash table",
+            "sliding window",
+            "anagrams"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string/"
+    },
+    {
+        "name": "Unique Paths II",
+        "tags": [
+            "array",
+            "dp",
+            "grid",
+            "path finding"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/unique-paths-ii/"
+    },
+    {
+        "name": "Multiple of 3",
+        "tags": [
+            "constructive",
+            "adhoc",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MULTHREE"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Software Company",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/software-company"
+    },
+    {
+        "name": "Colored T Shirts",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/colored-t-shirts"
+    },
+    {
+        "name": "Physics Class",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/PHYSICS"
+    },
+    {
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "string",
+            "hash table",
+            "sliding window",
+            "concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "name": "Divide by Three, Multiply by Two",
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "greedy"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/966/D"
+    },
+    {
+        "name": "Blind Escape",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/blind-escape"
+    }
+]

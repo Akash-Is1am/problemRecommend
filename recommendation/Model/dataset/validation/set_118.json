@@ -1,0 +1,635 @@
+[
+    {
+        "name": "Excel Sheet Column Number",
+        "tags": [
+            "math",
+            "base conversion",
+            "column numbering",
+            "character manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/excel-sheet-column-number/"
+    },
+    {
+        "name": "Counting Roads",
+        "tags": [
+            "graph",
+            "dfs"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Easy",
+        "link": "https://atcoder.jp/contests/abc061/tasks/abc061_b"
+    },
+    {
+        "name": "Array Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/array-queries"
+    },
+    {
+        "name": "Discover the Web",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/discover-the-web"
+    },
+    {
+        "name": "Fizz Buzz",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/fizz-buzz/"
+    },
+    {
+        "name": "Sqrt(x)",
+        "tags": [
+            "math",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sqrtx/"
+    },
+    {
+        "name": "Number of Steps to Reduce a Number to Zero",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "division operation",
+            "binary representation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+    },
+    {
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "name": "Find the Center of the Star Graph",
+        "tags": [
+            "graph",
+            "node connectivity",
+            "center detection",
+            "degree calculation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-center-of-star-graph/"
+    },
+    {
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp",
+            "subarray sum",
+            "greedy"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "name": "Power of Three",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/power-of-three/"
+    },
+    {
+        "name": "Design Parking System",
+        "tags": [
+            "design",
+            "object-oriented design",
+            "parking system",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-parking-system/"
+    },
+    {
+        "name": "Minimum Operations to Make the Array Increasing",
+        "tags": [
+            "array",
+            "greedy",
+            "operation counting",
+            "sequence manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/"
+    },
+    {
+        "name": "Design Parking System",
+        "tags": [
+            "design",
+            "object-oriented design",
+            "parking system",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-parking-system/"
+    },
+    {
+        "name": "Minimum Time Visiting All Points",
+        "tags": [
+            "geometry",
+            "math",
+            "distance calculation",
+            "point traversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+    },
+    {
+        "name": "Kids With the Greatest Number of Candies",
+        "tags": [
+            "array",
+            "greedy",
+            "max element detection",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/"
+    },
+    {
+        "name": "Valid Boomerang",
+        "tags": [
+            "math",
+            "geometry",
+            "triangle area",
+            "line equation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-boomerang/"
+    },
+    {
+        "name": "Pascal's Triangle",
+        "tags": [
+            "array",
+            "math",
+            "pattern generation",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/pascals-triangle/"
+    },
+    {
+        "name": "Maximum Number of Balls in a Box",
+        "tags": [
+            "math",
+            "hash table",
+            "counting",
+            "ball distribution"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/"
+    },
+    {
+        "name": "Bank Robbery",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/bank-robbery"
+    },
+    {
+        "name": "Guess It Right",
+        "tags": [
+            "math",
+            "probability"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/GUESSRT"
+    },
+    {
+        "name": "Testing Mailboxes",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/testing-mailboxes"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Sardar and GCD",
+        "tags": [
+            "graph",
+            "data structure",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/DLTNODE"
+    },
+    {
+        "name": "Tennis Tournament",
+        "tags": [
+            "probability",
+            "dp",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/TOURNAM"
+    },
+    {
+        "name": "Inversions",
+        "tags": [
+            "bit manipulation",
+            "math",
+            "combinatorics"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/INVSMOD2"
+    },
+    {
+        "name": "Longest Valid Parentheses",
+        "tags": [
+            "string",
+            "dp",
+            "stack",
+            "parentheses"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/longest-valid-parentheses/"
+    },
+    {
+        "name": "Number of Ways to Partition a Set",
+        "tags": [
+            "math",
+            "dp",
+            "partition"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/number-of-ways-to-partition-a-set/"
+    },
+    {
+        "name": "Edit Distance",
+        "tags": [
+            "string",
+            "dp",
+            "edit distance"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/edit-distance/"
+    },
+    {
+        "name": "Distinct Subsequences",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences/"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regex"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Magical Candy Store",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CNDYGAME"
+    },
+    {
+        "name": "Number of Ways to Partition a Set",
+        "tags": [
+            "math",
+            "dp",
+            "partition"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/number-of-ways-to-partition-a-set/"
+    },
+    {
+        "name": "Chef and Pairwise Distances",
+        "tags": [
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/PAIRDIST"
+    },
+    {
+        "name": "Word Break II",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "word break"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/word-break-ii/"
+    },
+    {
+        "name": "Array Destruction",
+        "tags": [
+            "constructive",
+            "greedy"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/1474/D"
+    },
+    {
+        "name": "Paths In A Tree",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/paths-in-a-tree"
+    },
+    {
+        "name": "Collecting Magical Berries",
+        "tags": [
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/COLLECT"
+    },
+    {
+        "name": "Game Of Cs",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/game-of-cs"
+    },
+    {
+        "name": "Wildcard Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "wildcard"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/wildcard-matching/"
+    },
+    {
+        "name": "Distinct Subsequences II",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences-ii/"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Distinct Subsequences II",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences-ii/"
+    },
+    {
+        "name": "Tidying Posters",
+        "tags": [
+            "graph",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/POSTERS"
+    },
+    {
+        "name": "Wildcard Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "wildcard"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/wildcard-matching/"
+    },
+    {
+        "name": "Rock Paper Scissors",
+        "tags": [
+            "data structure",
+            "dp"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/ROPASCI"
+    },
+    {
+        "name": "Beating The Dataset",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/beating-the-dataset"
+    },
+    {
+        "name": "Chef and Numbers",
+        "tags": [
+            "dp",
+            "greedy",
+            "math",
+            "combinatorics"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHRL3"
+    }
+]

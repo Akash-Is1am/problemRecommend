@@ -1,0 +1,419 @@
+[
+    {
+        "name": "Number of Steps to Reduce a Number to Zero",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "division operation",
+            "binary representation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+    },
+    {
+        "name": "Kids With the Greatest Number of Candies",
+        "tags": [
+            "array",
+            "greedy",
+            "max element detection",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/"
+    },
+    {
+        "name": "Find the Center of the Star Graph",
+        "tags": [
+            "graph",
+            "node connectivity",
+            "center detection",
+            "degree calculation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-center-of-star-graph/"
+    },
+    {
+        "name": "Minimum Time Visiting All Points",
+        "tags": [
+            "geometry",
+            "math",
+            "distance calculation",
+            "point traversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+    },
+    {
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp",
+            "subarray sum",
+            "greedy"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "name": "Minimum Time Visiting All Points",
+        "tags": [
+            "geometry",
+            "math",
+            "distance calculation",
+            "point traversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+    },
+    {
+        "name": "Excel Sheet Column Number",
+        "tags": [
+            "math",
+            "base conversion",
+            "column numbering",
+            "character manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/excel-sheet-column-number/"
+    },
+    {
+        "name": "Array Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/array-queries"
+    },
+    {
+        "name": "Power of Three",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/power-of-three/"
+    },
+    {
+        "name": "Fizz Buzz",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/fizz-buzz/"
+    },
+    {
+        "name": "Easy Game",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/easy-game"
+    },
+    {
+        "name": "Again Stone Game",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/again-stone-game"
+    },
+    {
+        "name": "Omax",
+        "tags": [
+            "data structure",
+            "bruteforce",
+            "algorithm",
+            "dp"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/OMAX"
+    },
+    {
+        "name": "Plant Location",
+        "tags": [
+            "math",
+            "searching",
+            "algorithm",
+            "geometry"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/K1"
+    },
+    {
+        "name": "Smart Frog",
+        "tags": [
+            "dp",
+            "algorithm",
+            "searching"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/G2"
+    },
+    {
+        "name": "Treasure Island",
+        "tags": [
+            "binary search",
+            "greedy",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/1214/C"
+    },
+    {
+        "name": "Explosion",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/explosion"
+    },
+    {
+        "name": "N Knights Problem",
+        "tags": [
+            "graph",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/KNIGHTS"
+    },
+    {
+        "name": "Chef and Universe",
+        "tags": [
+            "adhoc",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHEFUNI"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Edit Distance",
+        "tags": [
+            "string",
+            "dp",
+            "edit distance"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/edit-distance/"
+    },
+    {
+        "name": "Chipped Tree",
+        "tags": [
+            "math",
+            "geometry"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/EXUND"
+    },
+    {
+        "name": "Chef and Cake",
+        "tags": [
+            "data structure",
+            "greedy"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHEFCK"
+    },
+    {
+        "name": "An interesting subsequence",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/C5"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "String",
+            "dp",
+            "Backtracking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Word Break II",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "word break"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/word-break-ii/"
+    },
+    {
+        "name": "Crazy Substrings",
+        "tags": [
+            "math",
+            "dp",
+            "data structure",
+            "algorithm",
+            "array"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CRZYSUBSTR"
+    },
+    {
+        "name": "Number of Ways to Partition a Set",
+        "tags": [
+            "math",
+            "dp",
+            "partition"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/number-of-ways-to-partition-a-set/"
+    },
+    {
+        "name": "Bulbs and Wires",
+        "tags": [
+            "greedy",
+            "adhoc",
+            "data structure",
+            "math",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/BULBS?tab=statement"
+    },
+    {
+        "name": "Maximise Set Bits",
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MAXIMISEBITS"
+    },
+    {
+        "name": "Longest Valid Parentheses",
+        "tags": [
+            "string",
+            "dp",
+            "stack",
+            "parentheses"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/longest-valid-parentheses/"
+    },
+    {
+        "name": "Scramble String",
+        "tags": [
+            "string",
+            "dp",
+            "recursion",
+            "scramble"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/scramble-string/"
+    }
+]

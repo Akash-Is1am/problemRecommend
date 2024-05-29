@@ -1,0 +1,735 @@
+[
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "array",
+            "hash table",
+            "sorting",
+            "intersection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "Count Primes",
+        "tags": [
+            "math",
+            "prime numbers",
+            "sieve of Eratosthenes",
+            "number theory"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-primes/"
+    },
+    {
+        "name": "Shuffle the Array",
+        "tags": [
+            "array",
+            "shuffling",
+            "element rearrangement",
+            "randomization"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/shuffle-the-array/"
+    },
+    {
+        "name": "Word Capitalization",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/281/A"
+    },
+    {
+        "name": "Check If Two String Arrays are Equivalent",
+        "tags": [
+            "string",
+            "array",
+            "string comparison",
+            "concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/"
+    },
+    {
+        "name": "Reverse String",
+        "tags": [
+            "string",
+            "string manipulation",
+            "reversal",
+            "character handling"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-string/"
+    },
+    {
+        "name": "Design HashMap",
+        "tags": [
+            "hash table",
+            "data structure",
+            "map implementation",
+            "hashing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-hashmap/"
+    },
+    {
+        "name": "Maximum 69 Number",
+        "tags": [
+            "math",
+            "number manipulation",
+            "digit substitution",
+            "number properties"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-69-number/"
+    },
+    {
+        "name": "Intersection of Two Linked Lists",
+        "tags": [
+            "linked list",
+            "two pointers",
+            "list traversal",
+            "intersection detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+    },
+    {
+        "name": "Reverse Only Letters",
+        "tags": [
+            "string",
+            "two pointers",
+            "character manipulation",
+            "letter reversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-only-letters/"
+    },
+    {
+        "name": "Valid Mountain Array",
+        "tags": [
+            "array",
+            "mountain detection",
+            "peak finding",
+            "climbing rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-mountain-array/"
+    },
+    {
+        "name": "Design HashSet",
+        "tags": [
+            "hash table",
+            "data structure",
+            "set implementation",
+            "hashing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-hashset/"
+    },
+    {
+        "name": "Binary Simulation",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/binary-simulation"
+    },
+    {
+        "name": "Shuffle the Array",
+        "tags": [
+            "array",
+            "shuffling",
+            "element rearrangement",
+            "randomization"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/shuffle-the-array/"
+    },
+    {
+        "name": "Reverse Only Letters",
+        "tags": [
+            "string",
+            "two pointers",
+            "character manipulation",
+            "letter reversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-only-letters/"
+    },
+    {
+        "name": "Valid Mountain Array",
+        "tags": [
+            "array",
+            "mountain detection",
+            "peak finding",
+            "climbing rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-mountain-array/"
+    },
+    {
+        "name": "Maximum Product of Two Elements in an Array",
+        "tags": [
+            "array",
+            "sorting",
+            "max product",
+            "greedy"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/"
+    },
+    {
+        "name": "Chat Room",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/58/A"
+    },
+    {
+        "name": "Find the Highest Altitude",
+        "tags": [
+            "array",
+            "tracking",
+            "altitude calculation",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-the-highest-altitude/"
+    },
+    {
+        "name": "Merge Sorted Array",
+        "tags": [
+            "array",
+            "two pointers",
+            "merge operation",
+            "in-place manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+        "name": "Concatenation of Array",
+        "tags": [
+            "array",
+            "concatenation",
+            "list manipulation",
+            "element repetition"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/concatenation-of-array/"
+    },
+    {
+        "name": "Petya and Strings",
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/112/A"
+    },
+    {
+        "name": "Palindrome Linked List",
+        "tags": [
+            "linked list",
+            "two pointers",
+            "recursion",
+            "palindrome detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-linked-list/"
+    },
+    {
+        "name": "Merge Strings Alternately",
+        "tags": [
+            "string",
+            "string manipulation",
+            "alternating merge",
+            "character concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-strings-alternately/"
+    },
+    {
+        "name": "Kids With the Greatest Number of Candies",
+        "tags": [
+            "array",
+            "greedy",
+            "max element detection",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/"
+    },
+    {
+        "name": "How Many Numbers Are Smaller Than the Current Number",
+        "tags": [
+            "array",
+            "sorting",
+            "counting",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/"
+    },
+    {
+        "name": "Valid Parentheses",
+        "tags": [
+            "String",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "name": "Longest Increasing Subsequence",
+        "tags": [
+            "array",
+            "dp",
+            "subsequence",
+            "longest increasing subsequence"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+    },
+    {
+        "name": "Lining up Students",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/lining-up-students"
+    },
+    {
+        "name": "Jump Game II",
+        "tags": [
+            "array",
+            "greedy",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game-ii/"
+    },
+    {
+        "name": "Partitioning Game",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/partitioning-game"
+    },
+    {
+        "name": "New Traffic System",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/new-traffic-system"
+    },
+    {
+        "name": "Combination Sum",
+        "tags": [
+            "array",
+            "backtracking",
+            "recursion",
+            "combination"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/combination-sum/"
+    },
+    {
+        "name": "Little Elephant and Balance",
+        "tags": [
+            "data structure",
+            "math",
+            "constructive",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/LUCKYBAL"
+    },
+    {
+        "name": "Minimum Size Subarray Sum",
+        "tags": [
+            "array",
+            "two pointers",
+            "sliding window",
+            "sum"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/minimum-size-subarray-sum/"
+    },
+    {
+        "name": "Letter Combinations of a Phone Number",
+        "tags": [
+            "string",
+            "backtracking",
+            "recursion",
+            "combinations"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+        "name": "Multiple of 3",
+        "tags": [
+            "constructive",
+            "adhoc",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MULTHREE"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "hash table",
+            "two pointers",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Queries on the String",
+        "tags": [
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/QSET"
+    },
+    {
+        "name": "Little Elephant and Bubble Sort",
+        "tags": [
+            "data structure",
+            "graph",
+            "math",
+            "probability"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/LEBOBBLE"
+    },
+    {
+        "name": "Longest Valid Parentheses",
+        "tags": [
+            "string",
+            "stack",
+            "dp",
+            "parentheses"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/longest-valid-parentheses/"
+    },
+    {
+        "name": "Distinct Subsequences",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences/"
+    },
+    {
+        "name": "Expression Add Operators",
+        "tags": [
+            "string",
+            "backtracking",
+            "dfs",
+            "expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/expression-add-operators/"
+    },
+    {
+        "name": "Longest non regular parentheses sub-sequence",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/ANKPAREN"
+    },
+    {
+        "name": "Juno Puzzle for May",
+        "tags": [
+            "number theory",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/JUNONGF"
+    },
+    {
+        "name": "Median of Two Sorted Arrays",
+        "tags": [
+            "array",
+            "binary search",
+            "divide and conquer",
+            "median"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Statements Checking",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CORRCHK"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regex"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "N-Queens",
+        "tags": [
+            "backtracking",
+            "recursion",
+            "queens",
+            "placement"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/n-queens/"
+    },
+    {
+        "name": "Bytelandian Shoppers",
+        "tags": [
+            "combinatorics",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/BYTESHOP"
+    },
+    {
+        "name": "Ilya and the Tree",
+        "tags": [
+            "dfs and similar",
+            "dp",
+            "trees"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/842/D"
+    },
+    {
+        "name": "Diagonal Sum",
+        "tags": [
+            "greedy"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/diagonal-sum"
+    },
+    {
+        "name": "Trapping Rain Water",
+        "tags": [
+            "array",
+            "two pointers",
+            "stack",
+            "water trapping"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    }
+]

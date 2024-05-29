@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Subsequence-Numbers Divisible by 7",
+        "tags": [
+            "dp",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/SUB7NUM"
+    }
+]

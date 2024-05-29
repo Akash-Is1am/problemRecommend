@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Candidates of No Shortest Paths",
+        "tags": [
+            "graph",
+            "dfs",
+            "bfs"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc070/tasks/abc070_c"
+    }
+]

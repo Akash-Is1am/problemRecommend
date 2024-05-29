@@ -1,0 +1,767 @@
+[
+    {
+        "name": "Best Time to Buy and Sell Stock II",
+        "tags": [
+            "array",
+            "greedy",
+            "max profit calculation",
+            "stock trading"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    {
+        "name": "Richest Customer Wealth",
+        "tags": [
+            "array",
+            "wealth calculation",
+            "element sum",
+            "richness comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/richest-customer-wealth/"
+    },
+    {
+        "name": "Running Sum of 1d Array",
+        "tags": [
+            "array",
+            "running sum",
+            "cumulative sum",
+            "element addition"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/running-sum-of-1d-array/"
+    },
+    {
+        "name": "Curious Robin Hood",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/curious-robin-hood"
+    },
+    {
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp",
+            "divide and conquer",
+            "Kadane's algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "name": "Merge Strings Alternately",
+        "tags": [
+            "string",
+            "string manipulation",
+            "alternating merge",
+            "character concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-strings-alternately/"
+    },
+    {
+        "name": "Valid Anagram",
+        "tags": [
+            "string",
+            "hash table",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-anagram/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "array",
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "name": "Palindrome Number",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "array",
+            "hash table",
+            "sorting",
+            "intersection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "First Unique Character in a String",
+        "tags": [
+            "string",
+            "hash table",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string/"
+    },
+    {
+        "name": "Merge Strings Alternately",
+        "tags": [
+            "string",
+            "string manipulation",
+            "alternating merge",
+            "character concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-strings-alternately/"
+    },
+    {
+        "name": "Number of Good Pairs",
+        "tags": [
+            "array",
+            "hash table",
+            "counting pairs",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-good-pairs/"
+    },
+    {
+        "name": "Number of Steps to Reduce a Number to Zero",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "division operation",
+            "binary representation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+    },
+    {
+        "name": "How Many Numbers Are Smaller Than the Current Number",
+        "tags": [
+            "array",
+            "sorting",
+            "counting",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/"
+    },
+    {
+        "name": "Valid Perfect Square",
+        "tags": [
+            "math",
+            "binary search",
+            "number properties",
+            "square root"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-perfect-square/"
+    },
+    {
+        "name": "Valid Parentheses",
+        "tags": [
+            "String",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "name": "Number of Good Pairs",
+        "tags": [
+            "array",
+            "hash table",
+            "counting pairs",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-good-pairs/"
+    },
+    {
+        "name": "Move Zeroes",
+        "tags": [
+            "array",
+            "two pointers",
+            "sorting",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/move-zeroes/"
+    },
+    {
+        "name": "Maximum Product of Two Elements in an Array",
+        "tags": [
+            "array",
+            "sorting",
+            "max product",
+            "greedy"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/"
+    },
+    {
+        "name": "Valid Parentheses",
+        "tags": [
+            "string",
+            "stack"
+        ],
+        "platforms": [
+            "LeetCode",
+            "HackerRank"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "name": "Missing Number",
+        "tags": [
+            "array",
+            "math",
+            "sequence manipulation",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/missing-number/"
+    },
+    {
+        "name": "Find All Numbers Disappeared in an Array",
+        "tags": [
+            "array",
+            "hash table",
+            "missing numbers",
+            "element tracking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/"
+    },
+    {
+        "name": "Excel Sheet Column Number",
+        "tags": [
+            "math",
+            "base conversion",
+            "column numbering",
+            "character manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/excel-sheet-column-number/"
+    },
+    {
+        "name": "Count Good Triplets",
+        "tags": [
+            "array",
+            "math",
+            "combinations",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-good-triplets/"
+    },
+    {
+        "name": "Valid Sudoku",
+        "tags": [
+            "array",
+            "hash table",
+            "matrix manipulation",
+            "sudoku rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "name": "Find the Duplicate Number",
+        "tags": [
+            "array",
+            "two pointers",
+            "binary search",
+            "duplicate"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/find-the-duplicate-number/"
+    },
+    {
+        "name": "Adjacent Xors",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/ADJXOR2"
+    },
+    {
+        "name": "Jogging Trails",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/jogging-trails"
+    },
+    {
+        "name": "Minimal Inversions",
+        "tags": [
+            "data structure",
+            "algorithm",
+            "constructive",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MININV"
+    },
+    {
+        "name": "Non Coprime Neighbours",
+        "tags": [
+            "constructive",
+            "algorithm",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/NCOPRIMEN"
+    },
+    {
+        "name": "Consistency Checker",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/consistency-checker"
+    },
+    {
+        "name": "Permutations",
+        "tags": [
+            "Backtracking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/permutations/"
+    },
+    {
+        "name": "Longest Substring Without Repeating Characters",
+        "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+        "name": "Need More Diamonds",
+        "tags": [
+            "dp",
+            "probability",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/DIAMOND"
+    },
+    {
+        "name": "Sort Colors",
+        "tags": [
+            "array",
+            "two pointers",
+            "sorting",
+            "Dutch national flag problem"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/sort-colors/"
+    },
+    {
+        "name": "Container With Most Water",
+        "tags": [
+            "array",
+            "two pointers",
+            "greedy",
+            "water container"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+        "name": "Addition",
+        "tags": [
+            "data structure",
+            "math",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BINADD"
+    },
+    {
+        "name": "Search a 2D Matrix II",
+        "tags": [
+            "array",
+            "binary search",
+            "matrix",
+            "searching"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/search-a-2d-matrix-ii/"
+    },
+    {
+        "name": "Easy Linear Programming",
+        "tags": [
+            "math",
+            "linear programming"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Hard",
+        "link": "https://atcoder.jp/contests/abc167/tasks/abc167_e"
+    },
+    {
+        "name": "Weird Advertisement",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/weird-advertisement"
+    },
+    {
+        "name": "Alternative Sufferings",
+        "tags": [
+            "adhoc",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/ALTSUFF"
+    },
+    {
+        "name": "String Coloring",
+        "tags": [
+            "strings"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Hard",
+        "link": "https://atcoder.jp/contests/abc124/tasks/abc124_e"
+    },
+    {
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "string",
+            "hash table",
+            "substring",
+            "concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "hash table",
+            "two pointers",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Lights",
+        "tags": [
+            "greedy",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/LIGHT"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "hash table",
+            "two pointers",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Hard 20",
+        "tags": [
+            "array",
+            "backtracking",
+            "hard"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/hard-20/"
+    },
+    {
+        "name": "Scramble String",
+        "tags": [
+            "string",
+            "dp",
+            "recursion",
+            "scramble"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/scramble-string/"
+    },
+    {
+        "name": "Magic Board",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MBOARD"
+    },
+    {
+        "name": "Gcd and Lcm",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/GCDANDLCM"
+    },
+    {
+        "name": "Squares Game",
+        "tags": [
+            "graph",
+            "games"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SQUAGAME"
+    },
+    {
+        "name": "Trapping Rain Water",
+        "tags": [
+            "array",
+            "two pointers",
+            "stack",
+            "water trapping"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "name": "Palindrome Pairs",
+        "tags": [
+            "string",
+            "hash table",
+            "trie",
+            "palindrome"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/palindrome-pairs/"
+    },
+    {
+        "name": "Fedor and New Game",
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "math"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/467/B"
+    },
+    {
+        "name": "Hard 20",
+        "tags": [
+            "array",
+            "backtracking",
+            "hard"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/hard-20/"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Greg and Array",
+        "tags": [
+            "data structure",
+            "dp",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/295/A"
+    }
+]

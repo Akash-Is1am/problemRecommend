@@ -1,0 +1,485 @@
+[
+    {
+        "name": "Count and Say",
+        "tags": [
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+        "name": "Petya and Strings",
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/112/A"
+    },
+    {
+        "name": "Petya and Strings",
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/112/A"
+    },
+    {
+        "name": "Palindrome Linked List",
+        "tags": [
+            "linked list",
+            "two pointers",
+            "recursion",
+            "palindrome detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-linked-list/"
+    },
+    {
+        "name": "Valid Parentheses",
+        "tags": [
+            "String",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "name": "Design HashMap",
+        "tags": [
+            "hash table",
+            "data structure",
+            "map implementation",
+            "hashing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-hashmap/"
+    },
+    {
+        "name": "Merge Strings Alternately",
+        "tags": [
+            "string",
+            "string manipulation",
+            "alternating merge",
+            "character concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-strings-alternately/"
+    },
+    {
+        "name": "Intersection of Two Linked Lists",
+        "tags": [
+            "linked list",
+            "two pointers",
+            "list traversal",
+            "intersection detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+    },
+    {
+        "name": "Find All Numbers Disappeared in an Array",
+        "tags": [
+            "array",
+            "hash table",
+            "missing numbers",
+            "element tracking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/"
+    },
+    {
+        "name": "Move Zeroes",
+        "tags": [
+            "array",
+            "two pointers",
+            "sorting",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/move-zeroes/"
+    },
+    {
+        "name": "Way Too Long Words",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/71/A"
+    },
+    {
+        "name": "Decompress Run-Length Encoded List",
+        "tags": [
+            "array",
+            "compression",
+            "list manipulation",
+            "element expansion"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/decompress-run-length-encoded-list/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock II",
+        "tags": [
+            "array",
+            "greedy",
+            "max profit calculation",
+            "stock trading"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    {
+        "name": "Plus One",
+        "tags": [
+            "array",
+            "math",
+            "addition operation",
+            "carry handling"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/plus-one/"
+    },
+    {
+        "name": "Rooks",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/rooks"
+    },
+    {
+        "name": "Running Sum of 1d Array",
+        "tags": [
+            "array",
+            "running sum",
+            "cumulative sum",
+            "element addition"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/running-sum-of-1d-array/"
+    },
+    {
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp",
+            "divide and conquer",
+            "Kadane's algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "name": "Merge Sorted Array",
+        "tags": [
+            "array",
+            "two pointers",
+            "merge operation",
+            "in-place manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+        "name": "Decompress Run-Length Encoded List",
+        "tags": [
+            "array",
+            "compression",
+            "list manipulation",
+            "element expansion"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/decompress-run-length-encoded-list/"
+    },
+    {
+        "name": "Goal Parser Interpretation",
+        "tags": [
+            "string",
+            "parsing",
+            "substring manipulation",
+            "symbol interpretation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/goal-parser-interpretation/"
+    },
+    {
+        "name": "Palindrome Number",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "name": "Single Number",
+        "tags": [
+            "array",
+            "bit manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/single-number/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "Array",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "name": "Longest Common Prefix",
+        "tags": [
+            "string",
+            "prefix matching",
+            "character comparison",
+            "divide and conquer"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/longest-common-prefix/"
+    },
+    {
+        "name": "Changing a Character",
+        "tags": [
+            "strings"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Easy",
+        "link": "https://atcoder.jp/contests/abc126/tasks/abc126_a"
+    },
+    {
+        "name": "Palindrome Partitioning",
+        "tags": [
+            "backtracking",
+            "string",
+            "partitioning",
+            "palindrome detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-partitioning/"
+    },
+    {
+        "name": "Sum of Square Numbers",
+        "tags": [
+            "math",
+            "two pointers",
+            "number theory",
+            "sum of squares"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-square-numbers/"
+    },
+    {
+        "name": "3Sum Smaller",
+        "tags": [
+            "array",
+            "two pointers",
+            "sorting",
+            "3sum"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/3sum-smaller/"
+    },
+    {
+        "name": "N Queen Again",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/n-queen-again"
+    },
+    {
+        "name": "Minimum Path Sum",
+        "tags": [
+            "array",
+            "dp",
+            "grid",
+            "path finding"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/minimum-path-sum/"
+    },
+    {
+        "name": "Subsets",
+        "tags": [
+            "array",
+            "backtracking",
+            "bit manipulation",
+            "subsets"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/subsets/"
+    },
+    {
+        "name": "Adjacent Xors",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/ADJXOR2"
+    },
+    {
+        "name": "Kefa and Company",
+        "tags": [
+            "binary search",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/580/B"
+    },
+    {
+        "name": "Chef and Sorting",
+        "tags": [
+            "adhoc",
+            "data structure",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/PCJ18E"
+    },
+    {
+        "name": "Count Substrings",
+        "tags": [
+            "dp",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/STRSUB"
+    },
+    {
+        "name": "N-Queens II",
+        "tags": [
+            "backtracking",
+            "recursion",
+            "queens"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/n-queens-ii/"
+    },
+    {
+        "name": "Village Postman",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/village-postman"
+    }
+]

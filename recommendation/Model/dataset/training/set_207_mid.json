@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Insert Interval",
+        "tags": [
+            "array",
+            "sorting",
+            "interval",
+            "merge"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/insert-interval/"
+    }
+]

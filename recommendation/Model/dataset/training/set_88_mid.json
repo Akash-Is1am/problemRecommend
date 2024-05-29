@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Merge Intervals",
+        "tags": [
+            "Array",
+            "Sort"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/merge-intervals/"
+    }
+]

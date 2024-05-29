@@ -1,0 +1,512 @@
+[
+    {
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "array",
+            "dp",
+            "max profit calculation",
+            "stock trading"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "name": "Minimum Operations to Make the Array Increasing",
+        "tags": [
+            "array",
+            "greedy",
+            "operation counting",
+            "sequence manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/"
+    },
+    {
+        "name": "Find the Center of the Star Graph",
+        "tags": [
+            "graph",
+            "node connectivity",
+            "center detection",
+            "degree calculation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-center-of-star-graph/"
+    },
+    {
+        "name": "Palindrome Number",
+        "tags": [
+            "math",
+            "string manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "name": "Excel Sheet Column Number",
+        "tags": [
+            "math",
+            "base conversion",
+            "column numbering",
+            "character manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/excel-sheet-column-number/"
+    },
+    {
+        "name": "Sum of Square Numbers",
+        "tags": [
+            "math",
+            "two pointers",
+            "number theory",
+            "sum of squares"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-square-numbers/"
+    },
+    {
+        "name": "Maximum Number of Balls in a Box",
+        "tags": [
+            "math",
+            "hash table",
+            "counting",
+            "ball distribution"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/"
+    },
+    {
+        "name": "Design HashSet",
+        "tags": [
+            "hash table",
+            "data structure",
+            "set implementation",
+            "hashing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-hashset/"
+    },
+    {
+        "name": "Valid Perfect Square",
+        "tags": [
+            "math",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-perfect-square/"
+    },
+    {
+        "name": "Plus One",
+        "tags": [
+            "array",
+            "math",
+            "addition operation",
+            "carry handling"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/plus-one/"
+    },
+    {
+        "name": "Minimum Time Visiting All Points",
+        "tags": [
+            "geometry",
+            "math",
+            "distance calculation",
+            "point traversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+    },
+    {
+        "name": "Design Parking System",
+        "tags": [
+            "design",
+            "object-oriented design",
+            "parking system",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-parking-system/"
+    },
+    {
+        "name": "Sqrt(x)",
+        "tags": [
+            "math",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sqrtx/"
+    },
+    {
+        "name": "Maximum Number of Balls in a Box",
+        "tags": [
+            "math",
+            "hash table",
+            "counting",
+            "ball distribution"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/"
+    },
+    {
+        "name": "Design Parking System",
+        "tags": [
+            "design",
+            "object-oriented design",
+            "parking system",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-parking-system/"
+    },
+    {
+        "name": "A Wedding Party",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/a-wedding-party"
+    },
+    {
+        "name": "Baker Vai",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/baker-vai"
+    },
+    {
+        "name": "Ghajini",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/ghajini"
+    },
+    {
+        "name": "Balanced Walks",
+        "tags": [
+            "greedy",
+            "data structure",
+            "graph"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/BALANCED"
+    },
+    {
+        "name": "Distinct Subsequences II",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences-ii/"
+    },
+    {
+        "name": "Distinct Subsequences",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences/"
+    },
+    {
+        "name": "Stone Game",
+        "tags": [
+            "greedy",
+            "games",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/STNGAME"
+    },
+    {
+        "name": "Scramble String",
+        "tags": [
+            "string",
+            "dp",
+            "recursion",
+            "scramble"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/scramble-string/"
+    },
+    {
+        "name": "Testing Mailboxes",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/testing-mailboxes"
+    },
+    {
+        "name": "Placing Lampposts",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/placing-lampposts"
+    },
+    {
+        "name": "Two Fairs",
+        "tags": [
+            "dfs and similar",
+            "graph",
+            "shortest paths"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/1144/D"
+    },
+    {
+        "name": "Array Destruction",
+        "tags": [
+            "constructive",
+            "greedy"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/1474/D"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Hexagonal Bamboo Fort",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/hexagonal-bamboo-fort"
+    },
+    {
+        "name": "Devu and his Class",
+        "tags": [
+            "greedy",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/DEVCLASS"
+    },
+    {
+        "name": "Maximum number, GCD condition",
+        "tags": [
+            "bit manipulation",
+            "data structure",
+            "math",
+            "searching"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/ANUGCD"
+    },
+    {
+        "name": "Distinct Subsequences II",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences-ii/"
+    },
+    {
+        "name": "Longest Valid Parentheses",
+        "tags": [
+            "string",
+            "dp",
+            "stack",
+            "parentheses"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/longest-valid-parentheses/"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Digit Dancing",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/digit-dancing"
+    },
+    {
+        "name": "Tennis Tournament",
+        "tags": [
+            "probability",
+            "dp",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/TOURNAM"
+    },
+    {
+        "name": "Unalike Gcd & Lcm",
+        "tags": [
+            "greedy",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/ADVITIYA7"
+    },
+    {
+        "name": "A Story with Strings",
+        "tags": [
+            "algorithm",
+            "searching",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SSTORY"
+    },
+    {
+        "name": "Minimum Dual Area",
+        "tags": [
+            "geometry",
+            "constructive",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/DAREA"
+    }
+]

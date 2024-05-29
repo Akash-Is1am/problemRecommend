@@ -1,0 +1,317 @@
+[
+    {
+        "name": "Design Parking System",
+        "tags": [
+            "design",
+            "object-oriented design",
+            "parking system",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-parking-system/"
+    },
+    {
+        "name": "Array Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/array-queries"
+    },
+    {
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "name": "Strings of Impurity",
+        "tags": [
+            "strings",
+            "greedy"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc162/tasks/abc162_e"
+    },
+    {
+        "name": "Square Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/square-queries"
+    },
+    {
+        "name": "Subsequence-Numbers Divisible by 7",
+        "tags": [
+            "dp",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/SUB7NUM"
+    },
+    {
+        "name": "Longest Palindromic Substring",
+        "tags": [
+            "string",
+            "dp",
+            "palindrome",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+        "name": "Add Two Numbers",
+        "tags": [
+            "Linked List",
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/add-two-numbers/"
+    },
+    {
+        "name": "Smart Frog",
+        "tags": [
+            "dp",
+            "algorithm",
+            "searching"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/G2"
+    },
+    {
+        "name": "Strongest Community",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/strongest-community"
+    },
+    {
+        "name": "Omax",
+        "tags": [
+            "data structure",
+            "bruteforce",
+            "algorithm",
+            "dp"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/OMAX"
+    },
+    {
+        "name": "Average Sorting",
+        "tags": [
+            "constructive",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/AVGSORT"
+    },
+    {
+        "name": "A Refining Company",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/a-refining-company"
+    },
+    {
+        "name": "Lucky Number",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/lucky-number"
+    },
+    {
+        "name": "Steady tables",
+        "tags": [
+            "dp",
+            "math",
+            "combinatorics",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/STDYTAB"
+    },
+    {
+        "name": "Greatest Parent",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/greatest-parent"
+    },
+    {
+        "name": "Choosing from Buckets",
+        "tags": [
+            "dp",
+            "algorithm",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BUCKETS"
+    },
+    {
+        "name": "Forming The Council",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/forming-the-council"
+    },
+    {
+        "name": "Travel Company",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/travel-company"
+    },
+    {
+        "name": "Squash the Bugs",
+        "tags": [
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/B5"
+    },
+    {
+        "name": "Incredible Chess",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/incredible-chess"
+    },
+    {
+        "name": "Left Right",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/left-right"
+    },
+    {
+        "name": "Testing Mailboxes",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/testing-mailboxes"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Consecutive Deletions",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CONDEL"
+    },
+    {
+        "name": "Magician versus Chef 2",
+        "tags": [
+            "probability",
+            "adhoc",
+            "math",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MAGICHF2"
+    }
+]

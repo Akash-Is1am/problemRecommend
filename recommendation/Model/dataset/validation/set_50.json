@@ -1,0 +1,588 @@
+[
+    {
+        "name": "Palindrome Number",
+        "tags": [
+            "math",
+            "string manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp",
+            "subarray sum",
+            "greedy"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "name": "Counting Roads",
+        "tags": [
+            "graph",
+            "dfs"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Easy",
+        "link": "https://atcoder.jp/contests/abc061/tasks/abc061_b"
+    },
+    {
+        "name": "Minimum Time Visiting All Points",
+        "tags": [
+            "geometry",
+            "math",
+            "distance calculation",
+            "point traversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+    },
+    {
+        "name": "Excel Sheet Column Number",
+        "tags": [
+            "math",
+            "base conversion",
+            "column numbering",
+            "character manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/excel-sheet-column-number/"
+    },
+    {
+        "name": "Plus One",
+        "tags": [
+            "array",
+            "math",
+            "addition operation",
+            "carry handling"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/plus-one/"
+    },
+    {
+        "name": "Minimum Operations to Make the Array Increasing",
+        "tags": [
+            "array",
+            "greedy",
+            "operation counting",
+            "sequence manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/"
+    },
+    {
+        "name": "Maximum Number of Balls in a Box",
+        "tags": [
+            "math",
+            "hash table",
+            "counting",
+            "ball distribution"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "array",
+            "dp",
+            "max profit calculation",
+            "stock trading"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "name": "Power of Three",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/power-of-three/"
+    },
+    {
+        "name": "Design HashSet",
+        "tags": [
+            "hash table",
+            "data structure",
+            "set implementation",
+            "hashing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-hashset/"
+    },
+    {
+        "name": "Array Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/array-queries"
+    },
+    {
+        "name": "Fizz Buzz",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/fizz-buzz/"
+    },
+    {
+        "name": "Discover the Web",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/discover-the-web"
+    },
+    {
+        "name": "Design Parking System",
+        "tags": [
+            "design",
+            "object-oriented design",
+            "parking system",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-parking-system/"
+    },
+    {
+        "name": "Valid Boomerang",
+        "tags": [
+            "math",
+            "geometry",
+            "triangle area",
+            "line equation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-boomerang/"
+    },
+    {
+        "name": "Maximum Number of Balls in a Box",
+        "tags": [
+            "math",
+            "hash table",
+            "counting",
+            "ball distribution"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/"
+    },
+    {
+        "name": "Pascal's Triangle",
+        "tags": [
+            "array",
+            "math",
+            "pattern generation",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/pascals-triangle/"
+    },
+    {
+        "name": "Find the Center of the Star Graph",
+        "tags": [
+            "graph",
+            "node connectivity",
+            "center detection",
+            "degree calculation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-center-of-star-graph/"
+    },
+    {
+        "name": "Sum of Square Numbers",
+        "tags": [
+            "math",
+            "two pointers",
+            "number theory",
+            "sum of squares"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-square-numbers/"
+    },
+    {
+        "name": "Design Parking System",
+        "tags": [
+            "design",
+            "object-oriented design",
+            "parking system",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-parking-system/"
+    },
+    {
+        "name": "Travel Company",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/travel-company"
+    },
+    {
+        "name": "Plant Location",
+        "tags": [
+            "math",
+            "searching",
+            "algorithm",
+            "geometry"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/K1"
+    },
+    {
+        "name": "Bad Shuffle",
+        "tags": [
+            "data structure",
+            "constructive",
+            "adhoc",
+            "algorithm",
+            "probability"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BSHUFFLE"
+    },
+    {
+        "name": "Lucky Number",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/lucky-number"
+    },
+    {
+        "name": "Cut and Count",
+        "tags": [
+            "strings",
+            "dp"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc141/tasks/abc141_c"
+    },
+    {
+        "name": "Smart Frog",
+        "tags": [
+            "dp",
+            "algorithm",
+            "searching"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/G2"
+    },
+    {
+        "name": "A Wedding Party",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/a-wedding-party"
+    },
+    {
+        "name": "Chef and a great voluntary Program",
+        "tags": [
+            "constructive",
+            "greedy",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CHEFGP"
+    },
+    {
+        "name": "Find XOR",
+        "tags": [
+            "math",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/FINXOR"
+    },
+    {
+        "name": "Trail Maintenance",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/trail-maintenance"
+    },
+    {
+        "name": "Longest Palindromic Substring",
+        "tags": [
+            "string",
+            "dp",
+            "manacher's algorithm",
+            "palindrome"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+        "name": "Odd Personality",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/odd-personality"
+    },
+    {
+        "name": "Dna Sequence",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/dna-sequence"
+    },
+    {
+        "name": "Fast Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/fast-queries"
+    },
+    {
+        "name": "Average Sorting",
+        "tags": [
+            "constructive",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/AVGSORT"
+    },
+    {
+        "name": "Incredible Chess",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/incredible-chess"
+    },
+    {
+        "name": "Baker Vai",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/baker-vai"
+    },
+    {
+        "name": "Xor Distances",
+        "tags": [
+            "graph",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc150/tasks/abc150_e"
+    },
+    {
+        "name": "A Story with Strings",
+        "tags": [
+            "algorithm",
+            "searching",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SSTORY"
+    },
+    {
+        "name": "N Knights Problem",
+        "tags": [
+            "graph",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/KNIGHTS"
+    },
+    {
+        "name": "Maximise Set Bits",
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MAXIMISEBITS"
+    },
+    {
+        "name": "Sardar and GCD",
+        "tags": [
+            "graph",
+            "data structure",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/DLTNODE"
+    },
+    {
+        "name": "Largest Square in the garden",
+        "tags": [
+            "data structure",
+            "algorithm",
+            "searching"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/LARSQR31"
+    },
+    {
+        "name": "Magician versus Chef 2",
+        "tags": [
+            "probability",
+            "adhoc",
+            "math",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MAGICHF2"
+    }
+]

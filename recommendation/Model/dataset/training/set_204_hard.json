@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Magical Flips",
+        "tags": [
+            "bit manipulation",
+            "greedy",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CRDFLP"
+    }
+]

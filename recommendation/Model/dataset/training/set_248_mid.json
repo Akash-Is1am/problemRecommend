@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Partition to K Equal Sum Subsets",
+        "tags": [
+            "array",
+            "backtracking",
+            "partitioning",
+            "sum subsets"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/"
+    }
+]

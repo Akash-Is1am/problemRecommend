@@ -1,0 +1,601 @@
+[
+    {
+        "name": "Valid Perfect Square",
+        "tags": [
+            "math",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-perfect-square/"
+    },
+    {
+        "name": "Valid Boomerang",
+        "tags": [
+            "math",
+            "geometry",
+            "triangle area",
+            "line equation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-boomerang/"
+    },
+    {
+        "name": "Palindrome Number",
+        "tags": [
+            "math",
+            "string manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "name": "Sqrt(x)",
+        "tags": [
+            "math",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sqrtx/"
+    },
+    {
+        "name": "Sum of Square Numbers",
+        "tags": [
+            "math",
+            "two pointers",
+            "number theory",
+            "sum of squares"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-square-numbers/"
+    },
+    {
+        "name": "Incredible Chess",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/incredible-chess"
+    },
+    {
+        "name": "The Crystal Maze",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/the-crystal-maze"
+    },
+    {
+        "name": "Cut and Count",
+        "tags": [
+            "strings",
+            "dp"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc141/tasks/abc141_c"
+    },
+    {
+        "name": "Choosing from Buckets",
+        "tags": [
+            "dp",
+            "algorithm",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BUCKETS"
+    },
+    {
+        "name": "Reign",
+        "tags": [
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/REIGN"
+    },
+    {
+        "name": "Chef and a great voluntary Program",
+        "tags": [
+            "constructive",
+            "greedy",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CHEFGP"
+    },
+    {
+        "name": "Subsequence-Numbers Divisible by 7",
+        "tags": [
+            "dp",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/SUB7NUM"
+    },
+    {
+        "name": "Bathwater",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CLBATH"
+    },
+    {
+        "name": "Squash the Bugs",
+        "tags": [
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/B5"
+    },
+    {
+        "name": "Misere Nim",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/misere-nim"
+    },
+    {
+        "name": "Replacing",
+        "tags": [
+            "strings",
+            "greedy"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc054/tasks/abc054_c"
+    },
+    {
+        "name": "A Wedding Party",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/a-wedding-party"
+    },
+    {
+        "name": "Real Life Traffic",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/real-life-traffic"
+    },
+    {
+        "name": "Computing Fast Average",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/computing-fast-average"
+    },
+    {
+        "name": "Smart Frog",
+        "tags": [
+            "dp",
+            "algorithm",
+            "searching"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/G2"
+    },
+    {
+        "name": "Bad Shuffle",
+        "tags": [
+            "data structure",
+            "constructive",
+            "adhoc",
+            "algorithm",
+            "probability"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BSHUFFLE"
+    },
+    {
+        "name": "Longest Increasing Subsequence",
+        "tags": [
+            "array",
+            "dp",
+            "subsequence",
+            "longest increasing subsequence"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+    },
+    {
+        "name": "Aladdin And The Return Journey",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/aladdin-and-the-return-journe"
+    },
+    {
+        "name": "Crazy Calendar",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/crazy-calendar"
+    },
+    {
+        "name": "Maximize an Expression",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MAXEXPR"
+    },
+    {
+        "name": "Misha and Nice Sets",
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/GCDSET"
+    },
+    {
+        "name": "Bank Robbery",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/bank-robbery"
+    },
+    {
+        "name": "Collecting Gold",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/collecting-gold"
+    },
+    {
+        "name": "Plant Location",
+        "tags": [
+            "math",
+            "searching",
+            "algorithm",
+            "geometry"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/K1"
+    },
+    {
+        "name": "Strings of Impurity",
+        "tags": [
+            "strings",
+            "greedy"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc162/tasks/abc162_e"
+    },
+    {
+        "name": "Chef and sequence",
+        "tags": [
+            "constructive",
+            "math",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/UASEQ"
+    },
+    {
+        "name": "Left Right",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/left-right"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Edit Distance",
+        "tags": [
+            "string",
+            "dp",
+            "edit distance"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/edit-distance/"
+    },
+    {
+        "name": "Beating The Dataset",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/beating-the-dataset"
+    },
+    {
+        "name": "Maximum number, GCD condition",
+        "tags": [
+            "bit manipulation",
+            "data structure",
+            "math",
+            "searching"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/ANUGCD"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Rock Paper Scissors",
+        "tags": [
+            "data structure",
+            "dp"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/ROPASCI"
+    },
+    {
+        "name": "Number of Ways to Partition a Set",
+        "tags": [
+            "math",
+            "dp",
+            "partition"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/number-of-ways-to-partition-a-set/"
+    },
+    {
+        "name": "Minimum Dual Area",
+        "tags": [
+            "geometry",
+            "constructive",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/DAREA"
+    },
+    {
+        "name": "Treasure Island",
+        "tags": [
+            "binary search",
+            "greedy",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/1214/C"
+    },
+    {
+        "name": "Tennis Tournament",
+        "tags": [
+            "probability",
+            "dp",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/TOURNAM"
+    },
+    {
+        "name": "Crazy Substrings",
+        "tags": [
+            "math",
+            "dp",
+            "data structure",
+            "algorithm",
+            "array"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CRZYSUBSTR"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Circle of Chaos",
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CIRCHAOS"
+    },
+    {
+        "name": "Levko and Array Recovery",
+        "tags": [
+            "constructive",
+            "greedy",
+            "math"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/361/C"
+    },
+    {
+        "name": "Lucky Number",
+        "tags": [
+            "dp",
+            "math",
+            "combination"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/LUCKY2"
+    },
+    {
+        "name": "Scramble String",
+        "tags": [
+            "string",
+            "dp",
+            "recursion",
+            "scramble"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/scramble-string/"
+    }
+]

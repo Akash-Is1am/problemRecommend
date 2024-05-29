@@ -1,0 +1,335 @@
+[
+    {
+        "name": "Number of Steps to Reduce a Number to Zero",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "division operation",
+            "binary representation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+    },
+    {
+        "name": "Minimum Time Visiting All Points",
+        "tags": [
+            "geometry",
+            "math",
+            "distance calculation",
+            "point traversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+    },
+    {
+        "name": "Array Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/array-queries"
+    },
+    {
+        "name": "Minimum Time Visiting All Points",
+        "tags": [
+            "geometry",
+            "math",
+            "distance calculation",
+            "point traversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "array",
+            "dp",
+            "max profit calculation",
+            "stock trading"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "name": "Ghajini",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/ghajini"
+    },
+    {
+        "name": "Maximise Set Bits",
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MAXIMISEBITS"
+    },
+    {
+        "name": "Number of Paths",
+        "tags": [
+            "dp",
+            "data structure",
+            "graph"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/NUMPATH"
+    },
+    {
+        "name": "Number of Ways to Partition a Set",
+        "tags": [
+            "math",
+            "dp",
+            "partition"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/number-of-ways-to-partition-a-set/"
+    },
+    {
+        "name": "Chef and Escaping from the Labyrinth",
+        "tags": [
+            "data structure",
+            "graph"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/L56LABY"
+    },
+    {
+        "name": "Number of Ways to Partition a Set",
+        "tags": [
+            "math",
+            "dp",
+            "partition"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/number-of-ways-to-partition-a-set/"
+    },
+    {
+        "name": "Distinct Subsequences",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences/"
+    },
+    {
+        "name": "Xor Equation",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/XOREQN"
+    },
+    {
+        "name": "Circle of Chaos",
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CIRCHAOS"
+    },
+    {
+        "name": "Bulbs and Wires",
+        "tags": [
+            "greedy",
+            "adhoc",
+            "data structure",
+            "math",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/BULBS?tab=statement"
+    },
+    {
+        "name": "Crazy Substrings",
+        "tags": [
+            "math",
+            "dp",
+            "data structure",
+            "algorithm",
+            "array"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CRZYSUBSTR"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Levko and Array Recovery",
+        "tags": [
+            "constructive",
+            "greedy",
+            "math"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/361/C"
+    },
+    {
+        "name": "Word Break II",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "word break"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/word-break-ii/"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Chef and Universe",
+        "tags": [
+            "adhoc",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHEFUNI"
+    },
+    {
+        "name": "Magician versus Chef 2",
+        "tags": [
+            "probability",
+            "adhoc",
+            "math",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MAGICHF2"
+    },
+    {
+        "name": "Largest Square in the garden",
+        "tags": [
+            "data structure",
+            "algorithm",
+            "searching"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/LARSQR31"
+    },
+    {
+        "name": "Chef and Square Set",
+        "tags": [
+            "constructive",
+            "algorithm",
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHEFSSET"
+    },
+    {
+        "name": "Distinct Subsequences II",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences-ii/"
+    }
+]

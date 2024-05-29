@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Fox And Two Dots",
+        "tags": [
+            "dfs and similar",
+            "dsu",
+            "graph"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/510/C"
+    }
+]

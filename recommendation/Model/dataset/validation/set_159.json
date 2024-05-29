@@ -1,0 +1,342 @@
+[
+    {
+        "name": "Pascal's Triangle",
+        "tags": [
+            "array",
+            "math",
+            "pattern generation",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/pascals-triangle/"
+    },
+    {
+        "name": "Minimum Operations to Make the Array Increasing",
+        "tags": [
+            "array",
+            "greedy",
+            "operation counting",
+            "sequence manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/"
+    },
+    {
+        "name": "Kids With the Greatest Number of Candies",
+        "tags": [
+            "array",
+            "greedy",
+            "max element detection",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/"
+    },
+    {
+        "name": "Design Parking System",
+        "tags": [
+            "design",
+            "object-oriented design",
+            "parking system",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-parking-system/"
+    },
+    {
+        "name": "Array Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/array-queries"
+    },
+    {
+        "name": "Valid Boomerang",
+        "tags": [
+            "math",
+            "geometry",
+            "triangle area",
+            "line equation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-boomerang/"
+    },
+    {
+        "name": "Lighthouses",
+        "tags": [
+            "constructive",
+            "adhoc",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/LIGHTHSE"
+    },
+    {
+        "name": "Doof fires Brackets",
+        "tags": [
+            "data structure",
+            "adhoc",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CLBRKT"
+    },
+    {
+        "name": "Dna Sequence",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/dna-sequence"
+    },
+    {
+        "name": "Fast Queries",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/fast-queries"
+    },
+    {
+        "name": "Longest Increasing Subsequence",
+        "tags": [
+            "array",
+            "dp",
+            "subsequence",
+            "longest increasing subsequence"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+    },
+    {
+        "name": "Choosing from Buckets",
+        "tags": [
+            "dp",
+            "algorithm",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BUCKETS"
+    },
+    {
+        "name": "Plane Division",
+        "tags": [
+            "math",
+            "geometry"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/PLANEDIV"
+    },
+    {
+        "name": "Baker Vai",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/baker-vai"
+    },
+    {
+        "name": "Unique Paths",
+        "tags": [
+            "array",
+            "dp",
+            "combinatorics",
+            "grid"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/unique-paths/"
+    },
+    {
+        "name": "Smart Frog",
+        "tags": [
+            "dp",
+            "algorithm",
+            "searching"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/G2"
+    },
+    {
+        "name": "Preparing Dishes",
+        "tags": [
+            "dp",
+            "searching",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/PREPARE"
+    },
+    {
+        "name": "Road Construction",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/road-construction"
+    },
+    {
+        "name": "Left Right",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/left-right"
+    },
+    {
+        "name": "Find XOR",
+        "tags": [
+            "math",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/FINXOR"
+    },
+    {
+        "name": "Ghajini",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/ghajini"
+    },
+    {
+        "name": "Odd Personality",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/odd-personality"
+    },
+    {
+        "name": "Bathwater",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CLBATH"
+    },
+    {
+        "name": "Steady tables",
+        "tags": [
+            "dp",
+            "math",
+            "combinatorics",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/STDYTAB"
+    },
+    {
+        "name": "Glass Measurement",
+        "tags": [
+            "math",
+            "graph"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/GLASS"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "divide and conquer",
+            "dp",
+            "subarray"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    }
+]

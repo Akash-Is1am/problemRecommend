@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Lower",
+        "tags": [
+            "binary search",
+            "greedy"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Hard",
+        "link": "https://atcoder.jp/contests/abc117/tasks/abc117_d"
+    }
+]

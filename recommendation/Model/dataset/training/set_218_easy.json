@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Longest Common Prefix",
+        "tags": [
+            "string",
+            "prefix matching",
+            "character comparison",
+            "divide and conquer"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/longest-common-prefix/"
+    }
+]

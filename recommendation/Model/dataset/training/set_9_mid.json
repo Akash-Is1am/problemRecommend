@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Search in Rotated Sorted Array",
+        "tags": [
+            "array",
+            "binary search",
+            "rotated array",
+            "searching"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    }
+]

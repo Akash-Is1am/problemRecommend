@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Binary Search",
+        "tags": [
+            "binary search",
+            "searching",
+            "sorted array",
+            "recursive approach"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/binary-search/"
+    }
+]

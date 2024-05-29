@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Palindrome Partitioning II",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "palindrome"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/palindrome-partitioning-ii/"
+    }
+]

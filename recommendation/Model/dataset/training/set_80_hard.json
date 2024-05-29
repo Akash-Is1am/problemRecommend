@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Gold Mining",
+        "tags": [
+            "adhoc",
+            "math",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/GOLMINE"
+    }
+]

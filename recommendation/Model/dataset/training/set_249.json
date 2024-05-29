@@ -1,0 +1,337 @@
+[
+    {
+        "name": "Merge Sorted Array",
+        "tags": [
+            "array",
+            "two pointers",
+            "merge operation",
+            "in-place manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+        "name": "Sum of All Odd Length Subarrays",
+        "tags": [
+            "array",
+            "subarray sum",
+            "odd length subarrays",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-all-odd-length-subarrays/"
+    },
+    {
+        "name": "Design Browser History",
+        "tags": [
+            "design",
+            "linked list",
+            "navigation history",
+            "data structure"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-browser-history/"
+    },
+    {
+        "name": "Palindrome Partitioning",
+        "tags": [
+            "backtracking",
+            "string",
+            "partitioning",
+            "palindrome detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-partitioning/"
+    },
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "array",
+            "hash table",
+            "sorting",
+            "intersection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "Find All Anagrams in a String",
+        "tags": [
+            "string",
+            "sliding window",
+            "hash table",
+            "anagram detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string/"
+    },
+    {
+        "name": "Number of Steps to Reduce a Number to Zero",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "division operation",
+            "binary representation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+    },
+    {
+        "name": "Valid Sudoku",
+        "tags": [
+            "array",
+            "hash table",
+            "matrix manipulation",
+            "sudoku rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "name": "Merge Two Sorted Lists",
+        "tags": [
+            "linked list",
+            "sorting",
+            "list manipulation",
+            "pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+    },
+    {
+        "name": "Factorial Trailing Zeroes",
+        "tags": [
+            "math",
+            "number theory",
+            "trailing zeroes",
+            "factorial"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/factorial-trailing-zeroes/"
+    },
+    {
+        "name": "Richest Customer Wealth",
+        "tags": [
+            "array",
+            "wealth calculation",
+            "element sum",
+            "richness comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/richest-customer-wealth/"
+    },
+    {
+        "name": "Aladdin and the Return Journey",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/aladdin-and-the-return-journe"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Expression Add Operators",
+        "tags": [
+            "string",
+            "backtracking",
+            "dfs",
+            "expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/expression-add-operators/"
+    },
+    {
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "name": "The Magical Stone",
+        "tags": [
+            "combinatorics",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MAGICSTONE"
+    },
+    {
+        "name": "Longest Valid Parentheses",
+        "tags": [
+            "String",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/longest-valid-parentheses/"
+    },
+    {
+        "name": "Our Base is Under Attack",
+        "tags": [
+            "adhoc",
+            "math",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/BASE"
+    },
+    {
+        "name": "Median of Two Sorted Arrays",
+        "tags": [
+            "array",
+            "binary search",
+            "divide and conquer",
+            "median"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "name": "Trees Again",
+        "tags": [
+            "data structure",
+            "graph"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/TREES2"
+    },
+    {
+        "name": "Number of Ways to Partition a Set",
+        "tags": [
+            "math",
+            "dp",
+            "partition"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/number-of-ways-to-partition-a-set/"
+    },
+    {
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "string",
+            "hash table",
+            "substring",
+            "concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "name": "Wildcard Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "wildcard"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/wildcard-matching/"
+    },
+    {
+        "name": "Palindrome Pairs",
+        "tags": [
+            "string",
+            "hash table",
+            "trie",
+            "palindrome"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/palindrome-pairs/"
+    },
+    {
+        "name": "Document Analyzer",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/document-analyzer"
+    }
+]

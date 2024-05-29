@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Subsets",
+        "tags": [
+            "array",
+            "backtracking",
+            "bit manipulation",
+            "subsets"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/subsets/"
+    }
+]

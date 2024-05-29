@@ -1,0 +1,540 @@
+[
+    {
+        "name": "Two Sum",
+        "tags": [
+            "arrays",
+            "hash table"
+        ],
+        "platforms": [
+            "LeetCode",
+            "HackerRank"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "name": "Factorial Trailing Zeroes",
+        "tags": [
+            "math",
+            "number theory",
+            "trailing zeroes",
+            "factorial"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/factorial-trailing-zeroes/"
+    },
+    {
+        "name": "Valid Palindrome",
+        "tags": [
+            "two pointers",
+            "string",
+            "character comparison",
+            "case insensitivity"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-palindrome/"
+    },
+    {
+        "name": "Reverse Integer",
+        "tags": [
+            "math",
+            "integer manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "name": "Palindrome Linked List",
+        "tags": [
+            "linked list",
+            "two pointers",
+            "recursion",
+            "palindrome detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-linked-list/"
+    },
+    {
+        "name": "Find the Highest Altitude",
+        "tags": [
+            "array",
+            "tracking",
+            "altitude calculation",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-the-highest-altitude/"
+    },
+    {
+        "name": "Decompress Run-Length Encoded List",
+        "tags": [
+            "array",
+            "compression",
+            "list manipulation",
+            "element expansion"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/decompress-run-length-encoded-list/"
+    },
+    {
+        "name": "Remove Outermost Parentheses",
+        "tags": [
+            "string",
+            "stack",
+            "parentheses manipulation",
+            "substring extraction"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/remove-outermost-parentheses/"
+    },
+    {
+        "name": "Permutation Sequence",
+        "tags": [
+            "math",
+            "backtracking",
+            "permutations",
+            "sequence"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/permutation-sequence/"
+    },
+    {
+        "name": "Chef Designed a Network",
+        "tags": [
+            "data structure",
+            "graph",
+            "adhoc",
+            "math",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CHEFK1"
+    },
+    {
+        "name": "Candidates of No Shortest Paths",
+        "tags": [
+            "graph",
+            "dfs",
+            "bfs"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc070/tasks/abc070_c"
+    },
+    {
+        "name": "Permutations",
+        "tags": [
+            "Backtracking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/permutations/"
+    },
+    {
+        "name": "Count Substrings",
+        "tags": [
+            "data structure",
+            "adhoc",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/SBSTR"
+    },
+    {
+        "name": "N-Queens II",
+        "tags": [
+            "backtracking",
+            "recursion",
+            "queens"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/n-queens-ii/"
+    },
+    {
+        "name": "Vasya and Very Beautiful Matrix",
+        "tags": [
+            "constructive",
+            "implementation",
+            "math"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/354/B"
+    },
+    {
+        "name": "Maximum Factors Problem",
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MXFACS"
+    },
+    {
+        "name": "Valid String",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/VSTRING"
+    },
+    {
+        "name": "Stable market",
+        "tags": [
+            "searching",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SMARKET"
+    },
+    {
+        "name": "Trees Again",
+        "tags": [
+            "data structure",
+            "graph"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/TREES2"
+    },
+    {
+        "name": "Palindrome Pairs",
+        "tags": [
+            "string",
+            "hash table",
+            "trie",
+            "palindrome"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/palindrome-pairs/"
+    },
+    {
+        "name": "Binary Substitution",
+        "tags": [
+            "adhoc",
+            "data structure",
+            "constructive",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SUBSBIN"
+    },
+    {
+        "name": "Reading Books (hard version)",
+        "tags": [
+            "binary search",
+            "data structure",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/1217/D2"
+    },
+    {
+        "name": "Wildcard Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "wildcard"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/wildcard-matching/"
+    },
+    {
+        "name": "Palindrome Pairs",
+        "tags": [
+            "string",
+            "hash table",
+            "trie",
+            "palindrome"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/palindrome-pairs/"
+    },
+    {
+        "name": "K - balanced string",
+        "tags": [
+            "data structure",
+            "adhoc",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/KBALANCE"
+    },
+    {
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "string",
+            "hash table",
+            "substring",
+            "concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "name": "Divide by Three, Multiply by Two",
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "greedy"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/966/D"
+    },
+    {
+        "name": "c8kbf and Tree",
+        "tags": [
+            "graph",
+            "data structure",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/C8KBFTREE"
+    },
+    {
+        "name": "Longest Valid Parentheses",
+        "tags": [
+            "String",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/longest-valid-parentheses/"
+    },
+    {
+        "name": "Underwater Snipers",
+        "tags": [
+            "greedy"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/underwater-snipers"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Hard 20",
+        "tags": [
+            "array",
+            "backtracking",
+            "hard"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/hard-20/"
+    },
+    {
+        "name": "Perfect Power Divisors",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/PPDIV"
+    },
+    {
+        "name": "PolandBall and Forest",
+        "tags": [
+            "dfs and similar",
+            "graph",
+            "greedy"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/755/C"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "K Increment Palindrome",
+        "tags": [
+            "adhoc",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/KPAL"
+    },
+    {
+        "name": "First Missing Positive",
+        "tags": [
+            "array",
+            "hash table",
+            "positive numbers",
+            "missing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/first-missing-positive/"
+    },
+    {
+        "name": "Longest Substring with At Most K Distinct Characters",
+        "tags": [
+            "string",
+            "sliding window",
+            "hash table",
+            "distinct characters"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "Chef and Subarrays",
+        "tags": [
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHEFARRB"
+    },
+    {
+        "name": "Blind Escape",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/blind-escape"
+    }
+]

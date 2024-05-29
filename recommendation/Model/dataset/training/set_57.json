@@ -1,0 +1,484 @@
+[
+    {
+        "name": "Decompress Run-Length Encoded List",
+        "tags": [
+            "array",
+            "compression",
+            "list manipulation",
+            "element expansion"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/decompress-run-length-encoded-list/"
+    },
+    {
+        "name": "Palindrome Partitioning",
+        "tags": [
+            "backtracking",
+            "string",
+            "partitioning",
+            "palindrome detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-partitioning/"
+    },
+    {
+        "name": "Valid Parentheses",
+        "tags": [
+            "String",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "array",
+            "hash table",
+            "binary search",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "The Promised Land",
+        "tags": [
+            "math",
+            "adhoc",
+            "constructive",
+            "geometry"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/ISHVALA"
+    },
+    {
+        "name": "Counter Test For CHEFSUM",
+        "tags": [
+            "math",
+            "adhoc",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CHEFCOUN"
+    },
+    {
+        "name": "Jane And The Frost Giants",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/jane-and-the-frost-giants"
+    },
+    {
+        "name": "Extreme Gcd",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/extreme-gcd"
+    },
+    {
+        "name": "Palindrome Partitioning",
+        "tags": [
+            "backtracking",
+            "string",
+            "partitioning",
+            "palindrome"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/palindrome-partitioning/"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Fox And Two Dots",
+        "tags": [
+            "dfs and similar",
+            "dsu",
+            "graph"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/510/C"
+    },
+    {
+        "name": "Chef and Gcd Queries",
+        "tags": [
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/GCDCNT"
+    },
+    {
+        "name": "The battlefield",
+        "tags": [
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/D3"
+    },
+    {
+        "name": "Useful Number",
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/USF"
+    },
+    {
+        "name": "New Reform",
+        "tags": [
+            "data structure",
+            "implementation",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/659/C"
+    },
+    {
+        "name": "Se7en",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/F4"
+    },
+    {
+        "name": "Base Plans",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/UWCOI20D"
+    },
+    {
+        "name": "Wireless Network",
+        "tags": [
+            "graph",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/NETWORK"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "name": "E Friends",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/e-friends"
+    },
+    {
+        "name": "Even tuples",
+        "tags": [
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/ETUP"
+    },
+    {
+        "name": "Trees Again",
+        "tags": [
+            "data structure",
+            "graph"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/TREES2"
+    },
+    {
+        "name": "Colored T Shirts",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/colored-t-shirts"
+    },
+    {
+        "name": "First Missing Positive",
+        "tags": [
+            "array",
+            "hash table",
+            "positive numbers",
+            "missing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/first-missing-positive/"
+    },
+    {
+        "name": "Chef Is Just Throwing Random Words",
+        "tags": [
+            "dp",
+            "math",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SSO"
+    },
+    {
+        "name": "Chef and Filters",
+        "tags": [
+            "dp",
+            "bit manipulation",
+            "data structure",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHEFFILT"
+    },
+    {
+        "name": "Skiing",
+        "tags": [
+            "greedy",
+            "data structure",
+            "graph",
+            "sorting"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SKIING"
+    },
+    {
+        "name": "Permutation AND",
+        "tags": [
+            "math",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/PERMAND"
+    },
+    {
+        "name": "Village Postman",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/village-postman"
+    },
+    {
+        "name": "Binary Matrix Ii",
+        "tags": [
+            "greedy"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/binary-matrix-ii"
+    },
+    {
+        "name": "Symmetric Swaps",
+        "tags": [
+            "greedy",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SYMARRSWAP"
+    },
+    {
+        "name": "Lights",
+        "tags": [
+            "greedy",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/LIGHT"
+    },
+    {
+        "name": "N-Queens II",
+        "tags": [
+            "backtracking",
+            "recursion",
+            "queens"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/n-queens-ii/"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "c8kbf and Tree",
+        "tags": [
+            "graph",
+            "data structure",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/C8KBFTREE"
+    },
+    {
+        "name": "Grouping Friends",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/grouping-friends"
+    },
+    {
+        "name": "Trapping Rain Water",
+        "tags": [
+            "array",
+            "two pointers",
+            "stack",
+            "water trapping"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    }
+]

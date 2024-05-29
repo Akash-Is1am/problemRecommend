@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Intersection of Two Arrays",
+        "tags": [
+            "array",
+            "hash table",
+            "set intersection",
+            "element checking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays/"
+    }
+]

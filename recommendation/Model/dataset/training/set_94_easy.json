@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Power of Three",
+        "tags": [
+            "math",
+            "number properties",
+            "exponentiation",
+            "divisibility"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/power-of-three/"
+    }
+]

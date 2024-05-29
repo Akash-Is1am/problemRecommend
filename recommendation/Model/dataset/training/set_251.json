@@ -1,0 +1,595 @@
+[
+    {
+        "name": "Roman to Integer",
+        "tags": [
+            "math",
+            "string manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/roman-to-integer/"
+    },
+    {
+        "name": "Count and Say",
+        "tags": [
+            "string",
+            "pattern recognition",
+            "sequence generation",
+            "recursion"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+        "name": "Decompress Run-Length Encoded List",
+        "tags": [
+            "array",
+            "compression",
+            "list manipulation",
+            "element expansion"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/decompress-run-length-encoded-list/"
+    },
+    {
+        "name": "Reverse Integer",
+        "tags": [
+            "math",
+            "numerical algorithms",
+            "integer manipulation",
+            "edge cases"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "name": "Reverse Integer",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "name": "Implement strStr()",
+        "tags": [
+            "string",
+            "searching",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/implement-strstr/"
+    },
+    {
+        "name": "First Unique Character in a String",
+        "tags": [
+            "hash table",
+            "string",
+            "character frequency",
+            "first occurrence"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string/"
+    },
+    {
+        "name": "First Unique Character in a String",
+        "tags": [
+            "string",
+            "hash table",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string/"
+    },
+    {
+        "name": "Sum of Unique Elements",
+        "tags": [
+            "array",
+            "hash table",
+            "unique elements",
+            "element sum"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-unique-elements/"
+    },
+    {
+        "name": "Intersection of Two Linked Lists",
+        "tags": [
+            "linked list",
+            "two pointers",
+            "list traversal",
+            "intersection detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+    },
+    {
+        "name": "Merge Sorted Array",
+        "tags": [
+            "array",
+            "two pointers",
+            "merge operation",
+            "in-place manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+        "name": "Number of Good Pairs",
+        "tags": [
+            "array",
+            "hash table",
+            "counting pairs",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-good-pairs/"
+    },
+    {
+        "name": "Shiritori",
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Easy",
+        "link": "https://atcoder.jp/contests/abc109/tasks/abc109_b"
+    },
+    {
+        "name": "Single Number",
+        "tags": [
+            "array",
+            "bit manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/single-number/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "array",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "name": "Valid Parentheses",
+        "tags": [
+            "string",
+            "stack"
+        ],
+        "platforms": [
+            "LeetCode",
+            "HackerRank"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "name": "Happy Number",
+        "tags": [
+            "math",
+            "hash table",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/happy-number/"
+    },
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "array",
+            "hash table",
+            "sorting",
+            "intersection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "Merge Sorted Array",
+        "tags": [
+            "array",
+            "two pointers",
+            "merge operation",
+            "in-place manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+        "name": "Two Sum",
+        "tags": [
+            "arrays",
+            "hash table",
+            "searching",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode",
+            "HackerRank"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "name": "Find the Highest Altitude",
+        "tags": [
+            "array",
+            "tracking",
+            "altitude calculation",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-the-highest-altitude/"
+    },
+    {
+        "name": "Efficient Traffic System",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/efficient-traffic-system"
+    },
+    {
+        "name": "Best Cake Ever",
+        "tags": [
+            "constructive",
+            "bit manipulation",
+            "algorithm",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/KMXOR"
+    },
+    {
+        "name": "House Robber",
+        "tags": [
+            "array",
+            "dp",
+            "house robbery",
+            "maximum sum"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/house-robber/"
+    },
+    {
+        "name": "Valid Sudoku",
+        "tags": [
+            "array",
+            "hash table",
+            "sudoku",
+            "validity checking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "name": "Good Or Bad",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/good-or-bad"
+    },
+    {
+        "name": "Subarray Sum Equals K",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k/"
+    },
+    {
+        "name": "Yet Another Nice Girl",
+        "tags": [
+            "math",
+            "probability",
+            "algorithm",
+            "searching"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/ARRGAME2"
+    },
+    {
+        "name": "Prime Permutation",
+        "tags": [
+            "constructive",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/PRIMEPERM"
+    },
+    {
+        "name": "Number of Islands",
+        "tags": [
+            "depth-first search",
+            "breadth-first search",
+            "union-find",
+            "graph",
+            "island counting"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/number-of-islands/"
+    },
+    {
+        "name": "Free Cash",
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/237/A"
+    },
+    {
+        "name": "Letter Combinations of a Phone Number",
+        "tags": [
+            "Backtracking",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+        "name": "Tree Coloring",
+        "tags": [
+            "math",
+            "graph",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/TREECLR"
+    },
+    {
+        "name": "Little Elephant and Alcohol",
+        "tags": [
+            "math",
+            "bitmask"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/LEALCO"
+    },
+    {
+        "name": "Bitwise Blend",
+        "tags": [
+            "constructive",
+            "adhoc",
+            "bruteforce",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BITBLEND"
+    },
+    {
+        "name": "Closest Ranking",
+        "tags": [
+            "constructive",
+            "adhoc",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/VOTING"
+    },
+    {
+        "name": "3Sum",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/3sum/"
+    },
+    {
+        "name": "Distinct Subsequences",
+        "tags": [
+            "string",
+            "dp",
+            "subsequence",
+            "distinct"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/distinct-subsequences/"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Mix Mix Game",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/JAGAM"
+    },
+    {
+        "name": "Optimal Flip",
+        "tags": [
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/OPTMFLP18"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "N-Queens",
+        "tags": [
+            "backtracking",
+            "recursion",
+            "queens"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/n-queens/"
+    },
+    {
+        "name": "Trapping Rain Water",
+        "tags": [
+            "array",
+            "two pointers",
+            "stack",
+            "water trapping"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "string",
+            "dp",
+            "backtracking",
+            "regular expression"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    }
+]

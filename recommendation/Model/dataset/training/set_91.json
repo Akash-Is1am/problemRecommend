@@ -1,0 +1,675 @@
+[
+    {
+        "name": "Reverse Words in a String",
+        "tags": [
+            "string",
+            "string manipulation",
+            "word reversal",
+            "tokenization"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string/"
+    },
+    {
+        "name": "Reverse Words in a String III",
+        "tags": [
+            "string",
+            "string manipulation",
+            "word reversal",
+            "splitting"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii/"
+    },
+    {
+        "name": "Two Sum",
+        "tags": [
+            "arrays",
+            "hash table"
+        ],
+        "platforms": [
+            "LeetCode",
+            "HackerRank"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "name": "Valid Sudoku",
+        "tags": [
+            "array",
+            "hash table",
+            "matrix manipulation",
+            "sudoku rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "name": "Valid Sudoku",
+        "tags": [
+            "array",
+            "hash table",
+            "matrix manipulation",
+            "sudoku rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "name": "Flipping an Image",
+        "tags": [
+            "array",
+            "image manipulation",
+            "matrix transformation",
+            "element flipping"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/flipping-an-image/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "array",
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "name": "Reverse Integer",
+        "tags": [
+            "math",
+            "numerical algorithms",
+            "integer manipulation",
+            "edge cases"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "name": "Merge Strings Alternately",
+        "tags": [
+            "string",
+            "string manipulation",
+            "alternating merge",
+            "character concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-strings-alternately/"
+    },
+    {
+        "name": "Maximum Population Year",
+        "tags": [
+            "array",
+            "population tracking",
+            "year calculation",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-population-year/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock II",
+        "tags": [
+            "array",
+            "greedy",
+            "max profit calculation",
+            "stock trading"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    {
+        "name": "Way Too Long Words",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/71/A"
+    },
+    {
+        "name": "Find the Highest Altitude",
+        "tags": [
+            "array",
+            "tracking",
+            "altitude calculation",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-the-highest-altitude/"
+    },
+    {
+        "name": "Count and Say",
+        "tags": [
+            "string",
+            "sequence",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+        "name": "First Bad Version",
+        "tags": [
+            "binary search",
+            "version control",
+            "bug detection",
+            "searching"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/first-bad-version/"
+    },
+    {
+        "name": "Reverse Only Letters",
+        "tags": [
+            "string",
+            "two pointers",
+            "character manipulation",
+            "letter reversal"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-only-letters/"
+    },
+    {
+        "name": "Valid Anagram",
+        "tags": [
+            "string",
+            "hash table",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-anagram/"
+    },
+    {
+        "name": "Sum of Square Numbers",
+        "tags": [
+            "math",
+            "two pointers",
+            "number theory",
+            "sum of squares"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-square-numbers/"
+    },
+    {
+        "name": "Implement strStr()",
+        "tags": [
+            "string",
+            "searching",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/implement-strstr/"
+    },
+    {
+        "name": "Number of Students Doing Homework at a Given Time",
+        "tags": [
+            "array",
+            "time intervals",
+            "range checking",
+            "element count"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/"
+    },
+    {
+        "name": "Remove Duplicates from Sorted Array",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+    },
+    {
+        "name": "Design HashSet",
+        "tags": [
+            "hash table",
+            "data structure",
+            "set implementation",
+            "hashing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-hashset/"
+    },
+    {
+        "name": "Intersection of Two Arrays",
+        "tags": [
+            "array",
+            "hash table",
+            "set intersection",
+            "element checking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays/"
+    },
+    {
+        "name": "Valid Mountain Array",
+        "tags": [
+            "array",
+            "mountain detection",
+            "peak finding",
+            "climbing rules"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-mountain-array/"
+    },
+    {
+        "name": "Find the Highest Altitude",
+        "tags": [
+            "array",
+            "tracking",
+            "altitude calculation",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-the-highest-altitude/"
+    },
+    {
+        "name": "Power of Three",
+        "tags": [
+            "math",
+            "number properties",
+            "exponentiation",
+            "divisibility"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/power-of-three/"
+    },
+    {
+        "name": "Changing a Character",
+        "tags": [
+            "strings"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Easy",
+        "link": "https://atcoder.jp/contests/abc126/tasks/abc126_a"
+    },
+    {
+        "name": "Two Sum",
+        "tags": [
+            "arrays",
+            "hash table",
+            "searching",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode",
+            "HackerRank"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "name": "Reverse String",
+        "tags": [
+            "string",
+            "string manipulation",
+            "reversal",
+            "character handling"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-string/"
+    },
+    {
+        "name": "A String Game",
+        "tags": [
+            "data structure",
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/ASTRGAME"
+    },
+    {
+        "name": "Bitwise Blend",
+        "tags": [
+            "constructive",
+            "adhoc",
+            "bruteforce",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BITBLEND"
+    },
+    {
+        "name": "The Vindictive Coach",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/the-vindictive-coach"
+    },
+    {
+        "name": "N Queen Again",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/n-queen-again"
+    },
+    {
+        "name": "Longest Substring Without Repeating Characters",
+        "tags": [
+            "string",
+            "sliding window",
+            "hash table",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+        "name": "Maximal Square",
+        "tags": [
+            "array",
+            "dp",
+            "matrix",
+            "square"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/maximal-square/"
+    },
+    {
+        "name": "Chef and Big Soccer",
+        "tags": [
+            "dp",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CHEFSOC2"
+    },
+    {
+        "name": "Jane And The Frost Giants",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/jane-and-the-frost-giants"
+    },
+    {
+        "name": "Unique Xor",
+        "tags": [
+            "data structure",
+            "bit manipulation",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/UNIQUEK"
+    },
+    {
+        "name": "Longest Substring Without Repeating Characters",
+        "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+        "name": "Container With Most Water",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+        "name": "Manhattan Rectangle",
+        "tags": [
+            "math",
+            "geometry"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MANRECT"
+    },
+    {
+        "name": "Combination Sum II",
+        "tags": [
+            "array",
+            "backtracking",
+            "recursion",
+            "combination"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/combination-sum-ii/"
+    },
+    {
+        "name": "Subtract 12 Operation",
+        "tags": [
+            "dp",
+            "greedy",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/SUB12OP"
+    },
+    {
+        "name": "Container With Most Water",
+        "tags": [
+            "array",
+            "two pointers",
+            "greedy",
+            "water container"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+        "name": "Matrix Game",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/matrix-game"
+    },
+    {
+        "name": "Closest Ranking",
+        "tags": [
+            "constructive",
+            "adhoc",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/VOTING"
+    },
+    {
+        "name": "Delicious Dishes",
+        "tags": [
+            "dp",
+            "bit manipulation",
+            "bruteforce"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/DDISH"
+    },
+    {
+        "name": "Little Elephant and Alcohol",
+        "tags": [
+            "math",
+            "bitmask"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/LEALCO"
+    },
+    {
+        "name": "Group Anagrams",
+        "tags": [
+            "Hash Table",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/group-anagrams/"
+    },
+    {
+        "name": "Palindrome Linked List",
+        "tags": [
+            "linked list",
+            "two pointers",
+            "palindrome"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/palindrome-linked-list/"
+    },
+    {
+        "name": "Restore the Recipe",
+        "tags": [
+            "graph",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/RSRECIPE"
+    }
+]

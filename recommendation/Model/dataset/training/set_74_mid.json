@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Bitwise Blend",
+        "tags": [
+            "constructive",
+            "adhoc",
+            "bruteforce",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BITBLEND"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Delicious Dishes",
+        "tags": [
+            "dp",
+            "bit manipulation",
+            "bruteforce"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/DDISH"
+    }
+]

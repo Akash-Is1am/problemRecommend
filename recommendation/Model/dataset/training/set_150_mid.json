@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Fast Bit Calculations",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/fast-bit-calculations"
+    }
+]

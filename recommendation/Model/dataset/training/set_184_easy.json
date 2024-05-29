@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Sum of All Odd Length Subarrays",
+        "tags": [
+            "array",
+            "subarray sum",
+            "odd length subarrays",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-all-odd-length-subarrays/"
+    }
+]

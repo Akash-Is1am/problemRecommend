@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Reverse Linked List II",
+        "tags": [
+            "linked list",
+            "two pointers",
+            "reverse"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii/"
+    }
+]

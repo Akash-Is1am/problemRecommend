@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Longest Substring with At Least K Repeating Characters",
+        "tags": [
+            "string",
+            "divide and conquer",
+            "substring",
+            "repeating characters"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/"
+    }
+]

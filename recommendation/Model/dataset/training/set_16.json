@@ -1,0 +1,470 @@
+[
+    {
+        "name": "Detect Capital",
+        "tags": [
+            "string",
+            "string manipulation",
+            "capital detection",
+            "case checking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/detect-capital/"
+    },
+    {
+        "name": "Sum of Unique Elements",
+        "tags": [
+            "array",
+            "hash table",
+            "unique elements",
+            "element sum"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sum-of-unique-elements/"
+    },
+    {
+        "name": "Two Sum",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "name": "Goal Parser Interpretation",
+        "tags": [
+            "string",
+            "parsing",
+            "substring manipulation",
+            "symbol interpretation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/goal-parser-interpretation/"
+    },
+    {
+        "name": "Reverse Integer",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "name": "Find the Highest Altitude",
+        "tags": [
+            "array",
+            "tracking",
+            "altitude calculation",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-the-highest-altitude/"
+    },
+    {
+        "name": "Roman to Integer",
+        "tags": [
+            "string",
+            "hash table",
+            "conversion",
+            "roman numerals"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/roman-to-integer/"
+    },
+    {
+        "name": "Reverse Integer",
+        "tags": [
+            "math",
+            "integer manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "array",
+            "hash table",
+            "binary search",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "Best Time to Buy and Sell Stock II",
+        "tags": [
+            "array",
+            "greedy",
+            "max profit calculation",
+            "stock trading"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    {
+        "name": "Count Primes",
+        "tags": [
+            "math",
+            "prime numbers",
+            "sieve of Eratosthenes",
+            "number theory"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-primes/"
+    },
+    {
+        "name": "Count and Say",
+        "tags": [
+            "string",
+            "sequence",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+        "name": "Merge Sorted Array",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+        "name": "First Unique Character in a String",
+        "tags": [
+            "string",
+            "hash table",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string/"
+    },
+    {
+        "name": "Reverse String",
+        "tags": [
+            "string",
+            "string manipulation",
+            "reversal",
+            "character handling"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-string/"
+    },
+    {
+        "name": "Cascading Style Sheets",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CSS2"
+    },
+    {
+        "name": "Permutations",
+        "tags": [
+            "Backtracking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/permutations/"
+    },
+    {
+        "name": "Decode Ways",
+        "tags": [
+            "string",
+            "dp",
+            "decode",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/decode-ways/"
+    },
+    {
+        "name": "Chef Designed a Network",
+        "tags": [
+            "data structure",
+            "graph",
+            "adhoc",
+            "math",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CHEFK1"
+    },
+    {
+        "name": "Connecting Soldiers",
+        "tags": [
+            "math",
+            "bitmask",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/NOKIA"
+    },
+    {
+        "name": "Concert",
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/664/A"
+    },
+    {
+        "name": "Unique Paths II",
+        "tags": [
+            "array",
+            "dp",
+            "grid",
+            "path finding"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/unique-paths-ii/"
+    },
+    {
+        "name": "Remove Nth Node From End of List",
+        "tags": [
+            "linked list",
+            "two pointers",
+            "fast and slow pointers",
+            "list manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    },
+    {
+        "name": "Find the Duplicate Number",
+        "tags": [
+            "array",
+            "two pointers",
+            "binary search",
+            "duplicate"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/find-the-duplicate-number/"
+    },
+    {
+        "name": "Permutations",
+        "tags": [
+            "array",
+            "backtracking",
+            "recursion",
+            "permutations"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/permutations/"
+    },
+    {
+        "name": "Vowel Anxiety",
+        "tags": [
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/VOWANX"
+    },
+    {
+        "name": "Magic sequence",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/F5"
+    },
+    {
+        "name": "Positive Spewing",
+        "tags": [
+            "dp",
+            "adhoc",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/POSSPEW"
+    },
+    {
+        "name": "The Gray-Similar Code",
+        "tags": [
+            "math",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/GRAYSC"
+    },
+    {
+        "name": "Diablo",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/diablo"
+    },
+    {
+        "name": "Find the Sum",
+        "tags": [
+            "data structure",
+            "algorithm",
+            "constructive",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/PAIRSUM2"
+    },
+    {
+        "name": "Investigation",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/investigation"
+    },
+    {
+        "name": "Pilgrims Destination",
+        "tags": [
+            "dp",
+            "greedy",
+            "graph",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/PILGRIMS"
+    },
+    {
+        "name": "Queries on the String",
+        "tags": [
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/QSET"
+    },
+    {
+        "name": "N-Queens",
+        "tags": [
+            "backtracking",
+            "recursion",
+            "queens"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/n-queens/"
+    },
+    {
+        "name": "Longest Valid Parentheses",
+        "tags": [
+            "String",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/longest-valid-parentheses/"
+    }
+]

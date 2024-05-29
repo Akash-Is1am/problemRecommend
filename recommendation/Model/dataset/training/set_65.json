@@ -1,0 +1,477 @@
+[
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "Binary Simulation",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/binary-simulation"
+    },
+    {
+        "name": "Flipping an Image",
+        "tags": [
+            "array",
+            "image manipulation",
+            "matrix transformation",
+            "element flipping"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/flipping-an-image/"
+    },
+    {
+        "name": "Find the Difference Between Two Arrays",
+        "tags": [
+            "array",
+            "set operations",
+            "difference calculation",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/find-the-difference-between-two-arrays/"
+    },
+    {
+        "name": "Puzzles",
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/337/A"
+    },
+    {
+        "name": "Create Target Array in the Given Order",
+        "tags": [
+            "array",
+            "list manipulation",
+            "insertion",
+            "index manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/create-target-array-in-the-given-order/"
+    },
+    {
+        "name": "First Unique Character in a String",
+        "tags": [
+            "hash table",
+            "string",
+            "character frequency",
+            "first occurrence"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string/"
+    },
+    {
+        "name": "Longest Common Prefix",
+        "tags": [
+            "string",
+            "prefix matching",
+            "character comparison",
+            "divide and conquer"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/longest-common-prefix/"
+    },
+    {
+        "name": "First Bad Version",
+        "tags": [
+            "binary search",
+            "version control",
+            "bug detection",
+            "searching"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/first-bad-version/"
+    },
+    {
+        "name": "Rooks",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Easy",
+        "link": "https://lightoj.com/problem/rooks"
+    },
+    {
+        "name": "Design HashMap",
+        "tags": [
+            "hash table",
+            "data structure",
+            "map implementation",
+            "hashing"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/design-hashmap/"
+    },
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "array",
+            "hash table",
+            "sorting",
+            "intersection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "name": "Number of Good Pairs",
+        "tags": [
+            "array",
+            "hash table",
+            "counting pairs",
+            "combinatorics"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/number-of-good-pairs/"
+    },
+    {
+        "name": "Palindrome Partitioning",
+        "tags": [
+            "backtracking",
+            "string",
+            "partitioning",
+            "palindrome detection"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-partitioning/"
+    },
+    {
+        "name": "Way Too Long Words",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/71/A"
+    },
+    {
+        "name": "Kids With the Greatest Number of Candies",
+        "tags": [
+            "array",
+            "greedy",
+            "max element detection",
+            "element comparison"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/"
+    },
+    {
+        "name": "Detect Capital",
+        "tags": [
+            "string",
+            "string manipulation",
+            "capital detection",
+            "case checking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/detect-capital/"
+    },
+    {
+        "name": "Valid Palindrome",
+        "tags": [
+            "string",
+            "two pointers",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-palindrome/"
+    },
+    {
+        "name": "Two Sum",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "name": "Maximal Square",
+        "tags": [
+            "array",
+            "dp",
+            "matrix",
+            "square"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/maximal-square/"
+    },
+    {
+        "name": "Largest Y",
+        "tags": [
+            "math",
+            "algorithm",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/LARGESTY"
+    },
+    {
+        "name": "Count Substrings",
+        "tags": [
+            "data structure",
+            "adhoc",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/SBSTR"
+    },
+    {
+        "name": "The Vindictive Coach",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/the-vindictive-coach"
+    },
+    {
+        "name": "Magic sequence",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/F5"
+    },
+    {
+        "name": "Minimum Path Sum",
+        "tags": [
+            "array",
+            "dp",
+            "grid",
+            "path finding"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/minimum-path-sum/"
+    },
+    {
+        "name": "Count the Multiples of 3",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/count-the-multiples-of-3"
+    },
+    {
+        "name": "Max Points on a Line",
+        "tags": [
+            "math",
+            "geometry",
+            "line",
+            "points"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/max-points-on-a-line/"
+    },
+    {
+        "name": "Subarray Sum Equals K",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k/"
+    },
+    {
+        "name": "Valid Parentheses",
+        "tags": [
+            "string",
+            "stack",
+            "parentheses",
+            "validity checking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "name": "One Dimensional Game of Life",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/LIFE"
+    },
+    {
+        "name": "Alien Dictionary",
+        "tags": [
+            "graph",
+            "topological sorting",
+            "dictionary",
+            "alien language"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/alien-dictionary/"
+    },
+    {
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "string",
+            "hash table",
+            "substring",
+            "concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "name": "Hard 20",
+        "tags": [
+            "array",
+            "backtracking",
+            "hard"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/hard-20/"
+    },
+    {
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "hash table",
+            "two pointers",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "name": "Sonya and Swaps",
+        "tags": [
+            "dfs and similar",
+            "dsu",
+            "greedy"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/1150/D"
+    },
+    {
+        "name": "Gold Mining",
+        "tags": [
+            "adhoc",
+            "math",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/GOLMINE"
+    }
+]

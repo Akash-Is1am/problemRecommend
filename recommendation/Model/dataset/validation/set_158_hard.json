@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Regular Expression Matching",
+        "tags": [
+            "String",
+            "dp",
+            "Backtracking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    }
+]

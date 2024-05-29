@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Chef and Subtree MEXs",
+        "tags": [
+            "graph",
+            "greedy",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SUBMEXS"
+    }
+]

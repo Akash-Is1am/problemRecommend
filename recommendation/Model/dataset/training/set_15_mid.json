@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Extreme Gcd",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/extreme-gcd"
+    }
+]

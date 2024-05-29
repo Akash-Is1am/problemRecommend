@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Remove Element",
+        "tags": [
+            "array",
+            "two pointers",
+            "element removal",
+            "in-place manipulation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/remove-element/"
+    }
+]

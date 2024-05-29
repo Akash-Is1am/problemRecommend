@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Valid Palindrome II",
+        "tags": [
+            "string",
+            "two pointers",
+            "palindrome",
+            "validity checking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/valid-palindrome-ii/"
+    }
+]

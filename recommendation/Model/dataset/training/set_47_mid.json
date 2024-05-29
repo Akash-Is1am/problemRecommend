@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Group Anagrams",
+        "tags": [
+            "Hash Table",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/group-anagrams/"
+    }
+]

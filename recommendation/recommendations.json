@@ -1,0 +1,1665 @@
+[
+    {
+        "_id": "664104d544edac48a27bb9ca",
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp",
+            "subarray sum",
+            "greedy"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "_id": "664104d544edac48a27bb97e",
+        "name": "Palindrome Number",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "_id": "664104d544edac48a27bb97f",
+        "name": "Roman to Integer",
+        "tags": [
+            "math",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/roman-to-integer/"
+    },
+    {
+        "_id": "664104d544edac48a27bb982",
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "Array",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "_id": "664104d544edac48a27bb983",
+        "name": "Fizz Buzz",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/fizz-buzz/"
+    },
+    {
+        "_id": "664104d544edac48a27bb987",
+        "name": "Sqrt(x)",
+        "tags": [
+            "math",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/sqrtx/"
+    },
+    {
+        "_id": "664104d544edac48a27bb988",
+        "name": "Valid Perfect Square",
+        "tags": [
+            "math",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-perfect-square/"
+    },
+    {
+        "_id": "664104d544edac48a27bb98b",
+        "name": "Reverse Integer",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "_id": "664104d544edac48a27bb98e",
+        "name": "Maximum Subarray",
+        "tags": [
+            "Array",
+            "dp",
+            "Divide and Conquer"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "_id": "664104d544edac48a27bb990",
+        "name": "Power of Three",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/power-of-three/"
+    },
+    {
+        "_id": "664104d544edac48a27bb993",
+        "name": "Reverse Integer",
+        "tags": [
+            "math"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "_id": "664104d544edac48a27bb999",
+        "name": "Puzzles",
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/337/A"
+    },
+    {
+        "_id": "664104d544edac48a27bb99d",
+        "name": "Puzzles",
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/337/A"
+    },
+    {
+        "_id": "664104d544edac48a27bb9a0",
+        "name": "Counting Roads",
+        "tags": [
+            "graph",
+            "dfs"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Easy",
+        "link": "https://atcoder.jp/contests/abc061/tasks/abc061_b"
+    },
+    {
+        "_id": "664104d544edac48a27bb9a5",
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp",
+            "divide and conquer",
+            "Kadane's algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "_id": "664104d544edac48a27bb9a9",
+        "name": "Maximum Subarray",
+        "tags": [
+            "array",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "_id": "664104d544edac48a27bb9ab",
+        "name": "Happy Number",
+        "tags": [
+            "math",
+            "hash table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/happy-number/"
+    },
+    {
+        "_id": "664104d544edac48a27bb9ac",
+        "name": "Best Time to Buy and Sell Stock",
+        "tags": [
+            "array",
+            "dp"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "_id": "664104d544edac48a27bb9af",
+        "name": "Reverse Integer",
+        "tags": [
+            "math",
+            "integer manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "_id": "664104d544edac48a27bb9b0",
+        "name": "Palindrome Number",
+        "tags": [
+            "math",
+            "string manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "_id": "664104d544edac48a27bbbff",
+        "name": "Chef Designed a Network",
+        "tags": [
+            "data structure",
+            "graph",
+            "adhoc",
+            "math",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CHEFK1"
+    },
+    {
+        "_id": "664104d544edac48a27bbbe8",
+        "name": "Binary Mismatch",
+        "tags": [
+            "data structure",
+            "constructive",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BINMIS"
+    },
+    {
+        "_id": "664104d544edac48a27bbbf8",
+        "name": "Devu and a light discussion",
+        "tags": [
+            "data structure",
+            "graph",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/DEVLDISC"
+    },
+    {
+        "_id": "664104d544edac48a27bbbf9",
+        "name": "Devu and decorating birthday cake",
+        "tags": [
+            "data structure",
+            "greedy",
+            "constructive",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/REARRSTR"
+    },
+    {
+        "_id": "664104d544edac48a27bbbfc",
+        "name": "Little Elephant and Balance",
+        "tags": [
+            "data structure",
+            "math",
+            "constructive",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/LUCKYBAL"
+    },
+    {
+        "_id": "664104d544edac48a27bba5a",
+        "name": "Maximum Absurdity",
+        "tags": [
+            "data structure",
+            "dp"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/332/B"
+    },
+    {
+        "_id": "664104d544edac48a27bba7f",
+        "name": "Jump Game",
+        "tags": [
+            "array",
+            "greedy",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+        "_id": "664104d544edac48a27bba90",
+        "name": "Jump Game",
+        "tags": [
+            "array",
+            "greedy",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+        "_id": "664104d544edac48a27bbaa8",
+        "name": "Jump Game II",
+        "tags": [
+            "array",
+            "greedy",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game-ii/"
+    },
+    {
+        "_id": "664104d544edac48a27bbab2",
+        "name": "Jump Game",
+        "tags": [
+            "array",
+            "greedy",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+        "_id": "664104d544edac48a27bbbb9",
+        "name": "Counter Test For CHEFSUM",
+        "tags": [
+            "math",
+            "adhoc",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CHEFCOUN"
+    },
+    {
+        "_id": "664104d544edac48a27bbbbf",
+        "name": "XD Subsequences",
+        "tags": [
+            "math",
+            "adhoc",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/XDS"
+    },
+    {
+        "_id": "664104d544edac48a27bbbc3",
+        "name": "The Promised Land",
+        "tags": [
+            "math",
+            "adhoc",
+            "constructive",
+            "geometry"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/ISHVALA"
+    },
+    {
+        "_id": "664104d544edac48a27bbbc7",
+        "name": "Adjacent Xors",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "dp",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/ADJXOR2"
+    },
+    {
+        "_id": "664104d544edac48a27bbbcc",
+        "name": "Chess Pushing Game",
+        "tags": [
+            "math",
+            "dp"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CHESSGM"
+    },
+    {
+        "_id": "664104d544edac48a27bbbcd",
+        "name": "Magic Trick",
+        "tags": [
+            "math",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MTRICK"
+    },
+    {
+        "_id": "664104d544edac48a27bbbd1",
+        "name": "Tree Coloring",
+        "tags": [
+            "math",
+            "graph",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/TREECLR"
+    },
+    {
+        "_id": "664104d544edac48a27bbbd3",
+        "name": "One Dimensional Game of Life",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/LIFE"
+    },
+    {
+        "_id": "664104d544edac48a27bbbd5",
+        "name": "Mike and Stamps",
+        "tags": [
+            "math",
+            "bit manipulation",
+            "graph",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MIKE3"
+    },
+    {
+        "_id": "664104d544edac48a27bbbd9",
+        "name": "The Gray-Similar Code",
+        "tags": [
+            "math",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/GRAYSC"
+    },
+    {
+        "_id": "664104d544edac48a27bbc7f",
+        "name": "Bulbs and Wires",
+        "tags": [
+            "greedy",
+            "adhoc",
+            "data structure",
+            "math",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/BULBS?tab=statement"
+    },
+    {
+        "_id": "664104d544edac48a27bbca1",
+        "name": "Pilgrims Destination",
+        "tags": [
+            "dp",
+            "greedy",
+            "graph",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/PILGRIMS"
+    },
+    {
+        "_id": "664104d544edac48a27bbaec",
+        "name": "Levko and Array Recovery",
+        "tags": [
+            "constructive",
+            "greedy",
+            "math"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/361/C"
+    },
+    {
+        "_id": "664104d544edac48a27bbafb",
+        "name": "Vasya and Triangle",
+        "tags": [
+            "constructive",
+            "greedy",
+            "math"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/1036/C"
+    },
+    {
+        "_id": "664104d544edac48a27bbc36",
+        "name": "c8kbf and Tree",
+        "tags": [
+            "graph",
+            "data structure",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/C8KBFTREE"
+    },
+    {
+        "_id": "664104d544edac48a27bbc3a",
+        "name": "Chef and Line",
+        "tags": [
+            "dp",
+            "greedy",
+            "searching",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CARRAY"
+    },
+    {
+        "_id": "664104d544edac48a27bbc53",
+        "name": "Tree House",
+        "tags": [
+            "graph",
+            "math",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/THOUSES"
+    },
+    {
+        "_id": "664104d544edac48a27bbc57",
+        "name": "Dual Nim",
+        "tags": [
+            "adhoc",
+            "math",
+            "games",
+            "constructive",
+            "bit manipulation",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/TWONIM"
+    },
+    {
+        "_id": "664104d544edac48a27bbc5f",
+        "name": "Chef and Filters",
+        "tags": [
+            "dp",
+            "bit manipulation",
+            "data structure",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHEFFILT"
+    },
+    {
+        "_id": "664104d544edac48a27bbc63",
+        "name": "Alok-nath and His Sanskars",
+        "tags": [
+            "dp",
+            "data structure",
+            "math",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SANSKAR"
+    },
+    {
+        "_id": "664104d544edac48a27bbc64",
+        "name": "Balanced Walks",
+        "tags": [
+            "greedy",
+            "data structure",
+            "graph"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/BALANCED"
+    },
+    {
+        "_id": "664104d544edac48a27bbc67",
+        "name": "Skiing",
+        "tags": [
+            "greedy",
+            "data structure",
+            "graph",
+            "sorting"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SKIING"
+    },
+    {
+        "_id": "664104d544edac48a27bbc69",
+        "name": "Little Elephant and Bubble Sort",
+        "tags": [
+            "data structure",
+            "graph",
+            "math",
+            "probability"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/LEBOBBLE"
+    },
+    {
+        "_id": "664104d544edac48a27bbc6d",
+        "name": "Minimise the Size",
+        "tags": [
+            "data structure",
+            "math",
+            "constructive",
+            "bit manipulation",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/MINSZ"
+    },
+    {
+        "_id": "664104d544edac48a27bbc6e",
+        "name": "Stone Game",
+        "tags": [
+            "greedy",
+            "games",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/STNGAME"
+    },
+    {
+        "_id": "664104d544edac48a27bbc7e",
+        "name": "Online Shopping",
+        "tags": [
+            "dp",
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/COUPON"
+    },
+    {
+        "_id": "664104d544edac48a27bbc81",
+        "name": "Crazy Substrings",
+        "tags": [
+            "math",
+            "dp",
+            "data structure",
+            "algorithm",
+            "array"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CRZYSUBSTR"
+    },
+    {
+        "_id": "664104d544edac48a27bbc87",
+        "name": "Distances",
+        "tags": [
+            "graph",
+            "data structure",
+            "constructive",
+            "adhoc"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/DIS"
+    },
+    {
+        "_id": "664104d544edac48a27bbc93",
+        "name": "Increasing Addition",
+        "tags": [
+            "data structure",
+            "math",
+            "adhoc",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/INCADD"
+    },
+    {
+        "_id": "664104d544edac48a27bbc95",
+        "name": "Chef and Subtree MEXs",
+        "tags": [
+            "graph",
+            "greedy",
+            "data structure"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/SUBMEXS"
+    },
+    {
+        "_id": "664104d544edac48a27bb97d",
+        "name": "Two Sum",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "_id": "664104d544edac48a27bb980",
+        "name": "Valid Parentheses",
+        "tags": [
+            "String",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "_id": "664104d544edac48a27bb981",
+        "name": "Remove Duplicates from Sorted Array",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+    },
+    {
+        "_id": "664104d544edac48a27bb984",
+        "name": "Reverse String",
+        "tags": [
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/reverse-string/"
+    },
+    {
+        "_id": "664104d544edac48a27bb985",
+        "name": "Implement strStr()",
+        "tags": [
+            "Two Pointers",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/implement-strstr/"
+    },
+    {
+        "_id": "664104d544edac48a27bb986",
+        "name": "Palindrome Linked List",
+        "tags": [
+            "Linked List",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-linked-list/"
+    },
+    {
+        "_id": "664104d544edac48a27bb989",
+        "name": "Count and Say",
+        "tags": [
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+        "_id": "664104d544edac48a27bb98a",
+        "name": "Valid Parentheses",
+        "tags": [
+            "String",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "_id": "664104d544edac48a27bb98c",
+        "name": "Move Zeroes",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/move-zeroes/"
+    },
+    {
+        "_id": "664104d544edac48a27bb98d",
+        "name": "First Unique Character in a String",
+        "tags": [
+            "Hash Table",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string/"
+    },
+    {
+        "_id": "664104d544edac48a27bb98f",
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+        "_id": "664104d544edac48a27bb991",
+        "name": "Merge Sorted Array",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+        "_id": "664104d544edac48a27bb992",
+        "name": "Two Sum",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "_id": "664104d544edac48a27bb994",
+        "name": "Way Too Long Words",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/71/A"
+    },
+    {
+        "_id": "664104d544edac48a27bb995",
+        "name": "Way Too Long Words",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/71/A"
+    },
+    {
+        "_id": "664104d544edac48a27bb996",
+        "name": "Word Capitalization",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/281/A"
+    },
+    {
+        "_id": "664104d544edac48a27bb997",
+        "name": "Chat Room",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/58/A"
+    },
+    {
+        "_id": "664104d544edac48a27bb998",
+        "name": "Petya and Strings",
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/112/A"
+    },
+    {
+        "_id": "664104d544edac48a27bb99a",
+        "name": "Word Capitalization",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/281/A"
+    },
+    {
+        "_id": "664104d544edac48a27bb99b",
+        "name": "Chat Room",
+        "tags": [
+            "strings",
+            "implementation"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Easy",
+        "link": "https://codeforces.com/problemset/problem/58/A"
+    },
+    {
+        "_id": "664104d544edac48a27bba46",
+        "name": "Longest Substring Without Repeating Characters",
+        "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+        "_id": "664104d544edac48a27bba47",
+        "name": "Container With Most Water",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+        "_id": "664104d544edac48a27bba48",
+        "name": "3Sum",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/3sum/"
+    },
+    {
+        "_id": "664104d544edac48a27bba49",
+        "name": "Longest Substring Without Repeating Characters",
+        "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+        "_id": "664104d544edac48a27bba4a",
+        "name": "Merge Intervals",
+        "tags": [
+            "Array",
+            "Sort"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/merge-intervals/"
+    },
+    {
+        "_id": "664104d544edac48a27bba4b",
+        "name": "Group Anagrams",
+        "tags": [
+            "Hash Table",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/group-anagrams/"
+    },
+    {
+        "_id": "664104d544edac48a27bba4c",
+        "name": "Subarray Sum Equals K",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k/"
+    },
+    {
+        "_id": "664104d544edac48a27bba4d",
+        "name": "Letter Combinations of a Phone Number",
+        "tags": [
+            "Backtracking",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+        "_id": "664104d544edac48a27bba4e",
+        "name": "Valid Sudoku",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "_id": "664104d544edac48a27bba51",
+        "name": "Search in Rotated Sorted Array",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+        "_id": "664104d544edac48a27bba52",
+        "name": "Word Search",
+        "tags": [
+            "Backtracking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/word-search/"
+    },
+    {
+        "_id": "664104d544edac48a27bba54",
+        "name": "Combination Sum",
+        "tags": [
+            "Array",
+            "Backtracking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/combination-sum/"
+    },
+    {
+        "_id": "664104d544edac48a27bba55",
+        "name": "Permutations",
+        "tags": [
+            "Backtracking"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/permutations/"
+    },
+    {
+        "_id": "664104d544edac48a27bba57",
+        "name": "Longest Substring Without Repeating Characters",
+        "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+        "_id": "664104d544edac48a27bba59",
+        "name": "Winning Lottery Ticket",
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/996/B"
+    },
+    {
+        "_id": "664104d544edac48a27bba5d",
+        "name": "Postcards and photos",
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/137/C"
+    },
+    {
+        "_id": "664104d544edac48a27bba5e",
+        "name": "Free Cash",
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/237/A"
+    },
+    {
+        "_id": "664104d544edac48a27bba60",
+        "name": "Kefa and Company",
+        "tags": [
+            "binary search",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/580/B"
+    },
+    {
+        "_id": "664104d544edac48a27bba62",
+        "name": "Ilya and tic-tac-toe game",
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/754/B"
+    },
+    {
+        "_id": "664104d544edac48a27bba65",
+        "name": "Aab",
+        "tags": [
+            "strings"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc082/tasks/arc087_a"
+    },
+    {
+        "_id": "664104d544edac48a27bbadc",
+        "name": "Median of Two Sorted Arrays",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "_id": "664104d544edac48a27bbadf",
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "_id": "664104d544edac48a27bbae0",
+        "name": "Trapping Rain Water",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "_id": "664104d544edac48a27bbae3",
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "_id": "664104d544edac48a27bbae5",
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "_id": "664104d544edac48a27bbae6",
+        "name": "Trapping Rain Water",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Stack"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb01",
+        "name": "String Coloring",
+        "tags": [
+            "strings"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Hard",
+        "link": "https://atcoder.jp/contests/abc124/tasks/abc124_e"
+    },
+    {
+        "_id": "664104d544edac48a27bbb06",
+        "name": "Circuit Board",
+        "tags": [
+            "binary search",
+            "geometry"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Hard",
+        "link": "https://atcoder.jp/contests/abc112/tasks/abc112_d"
+    },
+    {
+        "_id": "664104d544edac48a27bbb0f",
+        "name": "Median of Two Sorted Arrays",
+        "tags": [
+            "array",
+            "binary search",
+            "divide and conquer"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb10",
+        "name": "Minimum Window Substring",
+        "tags": [
+            "string",
+            "two pointers",
+            "sliding window",
+            "substring"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb11",
+        "name": "Trapping Rain Water",
+        "tags": [
+            "array",
+            "two pointers",
+            "stack",
+            "water trapping"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb12",
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "string",
+            "hash table",
+            "sliding window",
+            "concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb13",
+        "name": "Median of Two Sorted Arrays",
+        "tags": [
+            "array",
+            "binary search",
+            "divide and conquer",
+            "median"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb16",
+        "name": "N-Queens",
+        "tags": [
+            "backtracking",
+            "recursion",
+            "queens",
+            "placement"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/n-queens/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb1a",
+        "name": "Count of Smaller Numbers After Self",
+        "tags": [
+            "array",
+            "binary search",
+            "merge sort",
+            "counting"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb1b",
+        "name": "Longest Substring with At Most K Distinct Characters",
+        "tags": [
+            "string",
+            "sliding window",
+            "hash table",
+            "distinct characters"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb1c",
+        "name": "Largest Rectangle in Histogram",
+        "tags": [
+            "array",
+            "stack",
+            "monotonic stack",
+            "histogram"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb1d",
+        "name": "Merge Interval",
+        "tags": [
+            "array",
+            "sorting",
+            "interval",
+            "merge"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/merge-interval/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb1e",
+        "name": "Median of Two Sorted Arrays",
+        "tags": [
+            "array",
+            "binary search",
+            "divide and conquer",
+            "median"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "_id": "664104d544edac48a27bbb20",
+        "name": "Substring with Concatenation of All Words",
+        "tags": [
+            "string",
+            "hash table",
+            "sliding window",
+            "concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Subarray Sum Equals K",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k/"
+    }
+]

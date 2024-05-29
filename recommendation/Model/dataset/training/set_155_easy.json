@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Intersection of Two Arrays II",
+        "tags": [
+            "hash table",
+            "two pointers",
+            "binary search"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+    }
+]

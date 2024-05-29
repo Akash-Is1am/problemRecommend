@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Longest Weird Subsequence",
+        "tags": [
+            "dp",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/LWS"
+    }
+]

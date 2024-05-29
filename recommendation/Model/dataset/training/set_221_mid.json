@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Minimum Size Subarray Sum",
+        "tags": [
+            "array",
+            "two pointers",
+            "sliding window",
+            "sum"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/minimum-size-subarray-sum/"
+    }
+]

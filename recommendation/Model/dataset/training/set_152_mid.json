@@ -1,0 +1,16 @@
+[
+    {
+        "name": "House Robber",
+        "tags": [
+            "array",
+            "dp",
+            "house robbery",
+            "maximum sum"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/house-robber/"
+    }
+]

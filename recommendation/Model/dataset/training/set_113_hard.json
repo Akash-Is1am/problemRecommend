@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Fedor and New Game",
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "math"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/467/B"
+    }
+]

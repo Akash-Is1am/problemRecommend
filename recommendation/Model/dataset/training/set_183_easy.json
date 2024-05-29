@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Check If Two String Arrays are Equivalent",
+        "tags": [
+            "string",
+            "array",
+            "string comparison",
+            "concatenation"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/"
+    }
+]

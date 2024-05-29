@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Increasing Addition",
+        "tags": [
+            "data structure",
+            "math",
+            "adhoc",
+            "algorithm",
+            "constructive"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/INCADD"
+    }
+]

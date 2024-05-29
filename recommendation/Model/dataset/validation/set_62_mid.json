@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Jump Game VI",
+        "tags": [
+            "array",
+            "deque",
+            "dp",
+            "jump game"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/jump-game-vi/"
+    }
+]

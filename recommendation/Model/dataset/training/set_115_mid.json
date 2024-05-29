@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Majority Element II",
+        "tags": [
+            "array",
+            "voting algorithm",
+            "majority element",
+            "counting"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/majority-element-ii/"
+    }
+]

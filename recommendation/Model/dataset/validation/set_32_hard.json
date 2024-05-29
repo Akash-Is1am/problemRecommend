@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Permutation Sort",
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Hard",
+        "link": "https://codeforces.com/problemset/problem/1525/C"
+    }
+]

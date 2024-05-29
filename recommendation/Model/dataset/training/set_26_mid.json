@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Maximise the bridges",
+        "tags": [
+            "constructive",
+            "graph",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MAXBRIDGE"
+    }
+]

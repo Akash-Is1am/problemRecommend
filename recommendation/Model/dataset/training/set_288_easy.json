@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Move Zeroes",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Easy",
+        "link": "https://leetcode.com/problems/move-zeroes/"
+    }
+]

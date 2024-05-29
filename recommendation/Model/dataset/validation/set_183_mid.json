@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Castle Walls",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/castle-walls"
+    }
+]

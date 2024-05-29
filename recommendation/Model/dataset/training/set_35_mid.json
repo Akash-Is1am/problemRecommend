@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Shortest Path",
+        "tags": [
+            "graph",
+            "dijkstra"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc191/tasks/abc191_d"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Bamboo Partition",
+        "tags": [
+            "binary search",
+            "greedy"
+        ],
+        "platforms": [
+            "Codeforces"
+        ],
+        "level": "Medium",
+        "link": "https://codeforces.com/problemset/problem/830/B"
+    }
+]

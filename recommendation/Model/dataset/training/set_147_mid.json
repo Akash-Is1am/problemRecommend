@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Partitioning Game",
+        "tags": [
+            "games"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/partitioning-game"
+    }
+]

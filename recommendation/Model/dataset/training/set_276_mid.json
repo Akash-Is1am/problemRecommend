@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Traveling Plan",
+        "tags": [
+            "graph",
+            "shortest path"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc183/tasks/abc183_d"
+    }
+]

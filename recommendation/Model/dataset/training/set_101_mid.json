@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Minions and Voting",
+        "tags": [
+            "data structure",
+            "bruteforce",
+            "searching",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/MINVOTE"
+    }
+]

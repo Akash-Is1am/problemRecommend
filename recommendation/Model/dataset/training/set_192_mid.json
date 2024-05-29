@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Binary Nim 2",
+        "tags": [
+            "constructive",
+            "games",
+            "adhoc",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BINIM2"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Chef and Line",
+        "tags": [
+            "dp",
+            "greedy",
+            "searching",
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CARRAY"
+    }
+]

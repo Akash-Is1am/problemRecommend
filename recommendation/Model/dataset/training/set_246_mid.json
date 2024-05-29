@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Binary Inversion",
+        "tags": [
+            "data structure",
+            "algorithm",
+            "sorting"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/BININV"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Chef and Square Set",
+        "tags": [
+            "constructive",
+            "algorithm",
+            "data structure",
+            "math"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHEFSSET"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Dna Sequence",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/dna-sequence"
+    }
+]

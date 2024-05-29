@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Fibonacci String",
+        "tags": [
+            "data structure",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/CLFIBD"
+    }
+]

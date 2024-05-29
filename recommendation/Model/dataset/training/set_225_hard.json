@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Largest Rectangle in Histogram",
+        "tags": [
+            "array",
+            "stack",
+            "monotonic stack",
+            "histogram"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Hard",
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+    }
+]

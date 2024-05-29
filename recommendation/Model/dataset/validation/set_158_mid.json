@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Replacing",
+        "tags": [
+            "strings",
+            "greedy"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc054/tasks/abc054_c"
+    }
+]

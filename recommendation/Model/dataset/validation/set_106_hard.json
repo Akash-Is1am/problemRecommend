@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Balanced Walks",
+        "tags": [
+            "greedy",
+            "data structure",
+            "graph"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/BALANCED"
+    }
+]

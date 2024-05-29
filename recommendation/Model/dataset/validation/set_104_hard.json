@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Colorful Board",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/colorful-board"
+    }
+]

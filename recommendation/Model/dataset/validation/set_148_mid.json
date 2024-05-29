@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Lucky Number",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/lucky-number"
+    }
+]

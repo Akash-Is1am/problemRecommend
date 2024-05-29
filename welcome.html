@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Welcome</title>
+<style>
+    /* Reset CSS */
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-image: url('image/pic1.jpg');
+        background-size: cover;
+    }
+
+    .title {
+        font-weight: 600; /* Adjust font weight to your preference */
+        font-family: 'Arial', sans-serif; /* Use a common font */
+        text-transform: capitalize; /* Convert text to capitalize for emphasis */
+        letter-spacing: 1px; /* Add some letter spacing for clarity */
+    }
+
+    
+    /* Navbar styles */
+    .navbar {
+        background-color: rgba(0, 0, 0, 1); /* non-transparent black */
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: fixed;
+        width: 100%;
+        z-index: 999; /* Ensure navbar is on top */
+    }
+    
+    .navbar a {
+        color: white;
+        text-decoration: none;
+        font-size: 16px;
+        margin: 0 10px;
+        padding: 8px 12px;
+        border-radius: 4px;
+        transition: background-color 0.3s;
+    }
+    
+    .navbar a:hover {
+        background-color: rgba(255, 255, 255, 0.1); /* Transparent white on hover */
+    }
+
+    /* Add cursor style for login and signup buttons */
+    #loginBtn,
+    #signupBtn {
+        cursor: pointer; /* Set cursor to pointer on hover */
+    }
+</style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="welcome.html"><span class="title">Problem Repository and Recommendation System</span></a>
+        <div>
+            <a href="login_page.html" id="loginBtn">Login</a>
+            <a href="signup_page.html" id="signupBtn">Signup</a>
+        </div>
+    </div>
+</body>
+</html>

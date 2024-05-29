@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Line Chart",
+        "tags": [
+            "data structure"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Hard",
+        "link": "https://lightoj.com/problem/line-chart"
+    }
+]

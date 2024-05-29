@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Revenge of Traveling Salesman",
+        "tags": [
+            "graph",
+            "bit manipulation"
+        ],
+        "platforms": [
+            "AtCoder"
+        ],
+        "level": "Medium",
+        "link": "https://atcoder.jp/contests/abc180/tasks/abc180_e"
+    }
+]

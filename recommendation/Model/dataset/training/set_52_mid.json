@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Division",
+        "tags": [
+            "constructive",
+            "adhoc",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Medium",
+        "link": "https://www.codechef.com/problems/DIVEO"
+    }
+]

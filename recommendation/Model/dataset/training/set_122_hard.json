@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Chef and Filters",
+        "tags": [
+            "dp",
+            "bit manipulation",
+            "data structure",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/CHEFFILT"
+    }
+]

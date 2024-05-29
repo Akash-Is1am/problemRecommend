@@ -1,0 +1,13 @@
+[
+    {
+        "name": "New Traffic System",
+        "tags": [
+            "graph"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/new-traffic-system"
+    }
+]

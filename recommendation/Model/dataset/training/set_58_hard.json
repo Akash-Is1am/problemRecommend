@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Pizza or Broccoli",
+        "tags": [
+            "data structure",
+            "greedy",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/PIBRO"
+    }
+]

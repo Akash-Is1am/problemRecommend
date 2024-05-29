@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Good Or Bad",
+        "tags": [
+            "dp"
+        ],
+        "platforms": [
+            "LightOJ"
+        ],
+        "level": "Medium",
+        "link": "https://lightoj.com/problem/good-or-bad"
+    }
+]

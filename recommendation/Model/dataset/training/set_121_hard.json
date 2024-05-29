@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Little Elephant and Balloons",
+        "tags": [
+            "combinatorics",
+            "dp",
+            "math",
+            "algorithm"
+        ],
+        "platforms": [
+            "Codechef"
+        ],
+        "level": "Hard",
+        "link": "https://www.codechef.com/problems/LEBALONS"
+    }
+]

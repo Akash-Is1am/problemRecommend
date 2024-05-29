@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Find Peak Element II",
+        "tags": [
+            "array",
+            "binary search",
+            "peak finding"
+        ],
+        "platforms": [
+            "LeetCode"
+        ],
+        "level": "Medium",
+        "link": "https://leetcode.com/problems/find-peak-element-ii/"
+    }
+]
